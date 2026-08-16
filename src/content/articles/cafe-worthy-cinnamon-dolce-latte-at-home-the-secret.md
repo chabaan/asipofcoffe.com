@@ -3,7 +3,7 @@ title: "Cafe-Worthy Cinnamon Dolce Latte at Home: The Secret"
 meta: "Learn the secret to a cafe-worthy cinnamon dolce latte at home with our easy make-ahead syrup, no espresso machine needed."
 category: "Iced Coffee Recipes 2026"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cafe-worthy-cinnamon-dolce-latte-at-home.webp"
+image: "/images/cafe-worthy-cinnamon-dolce-latte-at-home-the-secret.webp"
 pubDate: "2026-08-24T19:24:44Z"
 ---
 

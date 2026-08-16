@@ -3,7 +3,7 @@ title: "The Caramel Brulee Latte Dupe My Whole Office Asks For"
 meta: "Learn how to make a caramel brulee latte dupe at home with my exact ratios and a simple caramelized sugar trick. No syrups, no machine needed."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-caramel-brulee-latte-dupe-my-whole-o.webp"
+image: "/images/the-caramel-brulee-latte-dupe-my-whole-office-asks-for.webp"
 pubDate: "2026-08-17T13:41:01Z"
 ---
 

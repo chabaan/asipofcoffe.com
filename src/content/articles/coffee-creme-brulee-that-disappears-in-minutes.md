@@ -3,7 +3,7 @@ title: "Coffee Creme Brulee That Disappears in Minutes"
 meta: "Learn how to make coffee creme brulee that disappears in minutes, with a precise custard ratio and torching technique for a crisp caramel shell."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/coffee-creme-brulee-that-disappears-in-m.webp"
+image: "/images/coffee-creme-brulee-that-disappears-in-minutes.webp"
 pubDate: "2026-08-20T14:23:25Z"
 ---
 

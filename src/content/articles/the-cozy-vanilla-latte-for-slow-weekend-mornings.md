@@ -3,7 +3,7 @@ title: "The Cozy Vanilla Latte for Slow Weekend Mornings"
 meta: "Learn how to make a cozy vanilla latte at home for slow weekend mornings. Expert tips on vanilla syrup, espresso ratio, and milk texture for a perfect cup."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-cozy-vanilla-latte-for-slow-weekend-.webp"
+image: "/images/the-cozy-vanilla-latte-for-slow-weekend-mornings.webp"
 pubDate: "2026-08-20T12:25:31Z"
 ---
 

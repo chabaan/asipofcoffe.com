@@ -3,7 +3,7 @@ title: "How to Build a Coffee Bar Tray That Makes Every Morning Feel Special"
 meta: "Learn how to build a coffee bar tray that makes every morning feel special with my curated setup, exact brewing ratios, and simple hosting tips."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/how-to-build-a-coffee-bar-tray-that-make.webp"
+image: "/images/how-to-build-a-coffee-bar-tray-that-makes-every-morning-feel-special.webp"
 pubDate: "2026-08-20T21:50:43Z"
 ---
 

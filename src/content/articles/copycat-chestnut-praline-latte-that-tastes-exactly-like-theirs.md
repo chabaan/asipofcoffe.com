@@ -3,7 +3,7 @@ title: "Copycat Chestnut Praline Latte That Tastes Exactly Like Theirs"
 meta: "Learn the precise ratio and technique to make a chestnut praline latte at home that mirrors the original. Exact temps, extraction tips, and texture cues include"
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/copycat-chestnut-praline-latte-that-tast.webp"
+image: "/images/copycat-chestnut-praline-latte-that-tastes-exactly-like-theirs.webp"
 pubDate: "2026-08-21T13:14:24Z"
 ---
 

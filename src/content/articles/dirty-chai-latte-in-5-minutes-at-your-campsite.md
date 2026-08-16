@@ -3,7 +3,7 @@ title: "Dirty Chai Latte in 5 Minutes at Your Campsite"
 meta: "Make a dirty chai latte in under 5 minutes with instant espresso, chai tea, and milk. No barista needed—just a camp stove and a mug."
 category: "Iced Coffee Recipes 2026"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/dirty-chai-latte-in-5-minutes-at-your-ca.webp"
+image: "/images/dirty-chai-latte-in-5-minutes-at-your-campsite.webp"
 pubDate: "2026-08-22T13:29:46Z"
 ---
 

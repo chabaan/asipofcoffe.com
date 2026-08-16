@@ -3,7 +3,7 @@ title: "The Chai Latte That Tastes Better Than the Coffee Shop"
 meta: "Learn to craft a chai latte with real tea and spice depth, better than any coffee shop version. Exact ratios, technique, and a pro tip you won't find elsewhere."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-chai-latte-that-tastes-better-than-t.webp"
+image: "/images/the-chai-latte-that-tastes-better-than-the-coffee-shop.webp"
 pubDate: "2026-08-20T07:55:25Z"
 ---
 

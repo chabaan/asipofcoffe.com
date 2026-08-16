@@ -3,7 +3,7 @@ title: "Peppermint Mocha Copycat: A Barista's Honest Take"
 meta: "A barista's honest take on the viral peppermint mocha copycat. Get the exact ratio, technique, and a game-changing tip you won't find anywhere else."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/peppermint-mocha-copycat-a-barista-s-hon.webp"
+image: "/images/peppermint-mocha-copycat-a-baristas-honest-take.webp"
 pubDate: "2026-08-19T07:57:13Z"
 ---
 

@@ -3,7 +3,7 @@ title: "My Coffee Bar Counter Setup in One Afternoon"
 meta: "Set up a coffee bar counter in one afternoon with this practical guide. Includes exact ratios, gear tips, and a simple espresso tonic recipe."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/my-coffee-bar-counter-setup-in-one-after.webp"
+image: "/images/my-coffee-bar-counter-setup-in-one-afternoon.webp"
 pubDate: "2026-08-18T12:11:30Z"
 ---
 

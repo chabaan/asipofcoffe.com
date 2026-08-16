@@ -3,7 +3,7 @@ title: "Mocha Latte That Beats the Coffee Shop"
 meta: "Make a mocha latte that beats the coffee shop with this make-ahead camping recipe. No espresso machine needed—just a camp stove and a few smart ratios."
 category: "Uncategorized"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/mocha-latte-that-beats-the-coffee-shop.webp"
+image: "/images/mocha-latte-that-beats-the-coffee-shop.webp"
 pubDate: "2026-08-24T20:41:58Z"
 ---
 

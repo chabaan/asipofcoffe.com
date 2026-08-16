@@ -3,7 +3,7 @@ title: "Restaurant-Quality Affogato at Home"
 meta: "Learn how to make a restaurant-quality affogato at home with the perfect espresso-to-gelato ratio, precise timing, and pro tips for silky texture."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/restaurant-quality-affogato-at-home.webp"
+image: "/images/restaurant-quality-affogato-at-home.webp"
 pubDate: "2026-08-18T08:08:32Z"
 ---
 

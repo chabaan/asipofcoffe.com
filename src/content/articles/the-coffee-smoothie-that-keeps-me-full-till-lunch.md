@@ -3,7 +3,7 @@ title: "The Coffee Smoothie That Keeps Me Full Till Lunch"
 meta: "Try this easy coffee smoothie recipe with a 2:1 banana-to-oat ratio that keeps me full till lunch. Learn the technique for a creamy, balanced drink."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-coffee-smoothie-that-keeps-me-full-t.webp"
+image: "/images/the-coffee-smoothie-that-keeps-me-full-till-lunch.webp"
 pubDate: "2026-08-21T12:06:36Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The Coffee Protein Shake That Curbs My Sweet Tooth"
 meta: "Learn how to make a coffee protein shake that curbs your sweet tooth. An iced drink with real technique, exact ratios, and no sugar crash."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-coffee-protein-shake-that-curbs-my-s.webp"
+image: "/images/the-coffee-protein-shake-that-curbs-my-sweet-tooth.webp"
 pubDate: "2026-08-19T07:57:06Z"
 ---
 

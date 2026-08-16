@@ -3,7 +3,7 @@ title: "Lavender Cold Brew Recipe: Exact Ratios and Technique"
 meta: "Learn the exact ratios and technique for lavender cold brew. A methodical guide to floral, smooth cold brew coffee without bitterness."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/lavender-cold-brew-recipe-exact-ratios-a.webp"
+image: "/images/lavender-cold-brew-recipe-exact-ratios-and-technique.webp"
 pubDate: "2026-08-18T19:55:20Z"
 ---
 

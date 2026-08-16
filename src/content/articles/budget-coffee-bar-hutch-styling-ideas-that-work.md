@@ -3,7 +3,7 @@ title: "Budget Coffee Bar Hutch Styling Ideas That Work"
 meta: "Learn how I styled a coffee bar hutch on a budget with thrift finds, DIY touches, and a simple formula for a cozy, functional setup."
 category: "Coffee Bar Ideas &amp; Aesthetic"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/budget-coffee-bar-hutch-styling-ideas-th.webp"
+image: "/images/budget-coffee-bar-hutch-styling-ideas-that-work.webp"
 pubDate: "2026-08-23T09:10:08Z"
 ---
 

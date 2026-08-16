@@ -3,7 +3,7 @@ title: "Seasonal Sugar Cookie Latte Recipe: Barista Tips for Perfect Balance"
 meta: "Learn how to craft the seasonal sugar cookie latte at home with precise ratios, extraction tips, and milk texture secrets from a head barista."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/seasonal-sugar-cookie-latte-recipe-baris.webp"
+image: "/images/seasonal-sugar-cookie-latte-recipe-barista-tips-for-perfect-balance.webp"
 pubDate: "2026-08-19T19:29:30Z"
 ---
 

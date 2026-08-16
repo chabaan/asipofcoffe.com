@@ -3,7 +3,7 @@ title: "Eggnog Chai Latte That Tastes Like a Warm Hug"
 meta: "Learn to craft an eggnog chai latte that tastes like a warm hug, with precise ratios and a barista-approved technique for perfect balance."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/eggnog-chai-latte-that-tastes-like-a-war.webp"
+image: "/images/eggnog-chai-latte-that-tastes-like-a-warm-hug.webp"
 pubDate: "2026-08-17T14:00:05Z"
 ---
 

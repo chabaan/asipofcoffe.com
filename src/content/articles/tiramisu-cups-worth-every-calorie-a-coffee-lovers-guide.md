@@ -3,7 +3,7 @@ title: "Tiramisu Cups Worth Every Calorie: A Coffee Lover's Guide"
 meta: "Learn how to make tiramisu cups that balance rich espresso, creamy mascarpone, and cocoa. A coffee-forward dessert that's worth every calorie."
 category: "Coffee Living"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/tiramisu-cups-worth-every-calorie-a-coff.webp"
+image: "/images/tiramisu-cups-worth-every-calorie-a-coffee-lovers-guide.webp"
 pubDate: "2026-08-18T09:17:27Z"
 ---
 

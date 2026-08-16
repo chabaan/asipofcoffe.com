@@ -3,7 +3,7 @@ title: "How to Make Collagen Coffee That Tastes Great"
 meta: "Learn the simple technique for collagen coffee that actually blends smooth and tastes great. No clumps, no chalkiness, just a creamy, healthy morning drink."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/how-to-make-collagen-coffee-that-tastes-.webp"
+image: "/images/how-to-make-collagen-coffee-that-tastes-great.webp"
 pubDate: "2026-08-17T12:06:40Z"
 ---
 

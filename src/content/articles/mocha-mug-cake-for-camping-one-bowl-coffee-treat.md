@@ -3,7 +3,7 @@ title: "Mocha Mug Cake for Camping: One-Bowl Coffee Treat"
 meta: "Make a rich mocha mug cake at camp with this one-bowl, no-oven recipe. Perfect for coffee lovers craving a warm dessert by the fire."
 category: "Coffee Desserts"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/mocha-mug-cake-for-camping-one-bowl-coff.webp"
+image: "/images/mocha-mug-cake-for-camping-one-bowl-coffee-treat.webp"
 pubDate: "2026-08-22T22:00:58Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cafe-Style Honey Cold Brew in One Easy Batch"
 meta: "Make cafe-style honey cold brew at home with this one-batch method. Get the perfect ratio, brewing tips, and a simple honey syrup that blends smoothly."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cafe-style-honey-cold-brew-in-one-easy-b.webp"
+image: "/images/cafe-style-honey-cold-brew-in-one-easy-batch.webp"
 pubDate: "2026-08-16T22:00:52Z"
 ---
 

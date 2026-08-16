@@ -3,7 +3,7 @@ title: "The Lavender Latte My Whole Family Begs For"
 meta: "Learn the exact technique and ratio for a lavender latte that balances floral notes with espresso. A barista's method for a perfectly smooth cup."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-lavender-latte-my-whole-family-begs-1-1.webp"
+image: "/images/the-lavender-latte-my-whole-family-begs-for.webp"
 pubDate: "2026-08-17T21:25:24Z"
 ---
 

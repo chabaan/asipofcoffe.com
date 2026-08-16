@@ -3,7 +3,7 @@ title: "Cold Brew Concentrate That Tastes Like a $7 Coffee Shop Order"
 meta: "Learn the exact ratios, grind size, and steeping method to make a coffee concentrate cold brew that tastes like a $7 coffee shop order at home."
 category: "Coffee Living"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cold-brew-concentrate-that-tastes-like-a.webp"
+image: "/images/cold-brew-concentrate-that-tastes-like-a-7-coffee-shop-order.webp"
 pubDate: "2026-08-21T07:54:01Z"
 ---
 

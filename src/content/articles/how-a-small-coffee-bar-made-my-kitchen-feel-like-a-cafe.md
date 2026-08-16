@@ -3,7 +3,7 @@ title: "How a Small Coffee Bar Made My Kitchen Feel Like a Cafe"
 meta: "Learn how a small coffee bar made my kitchen feel like a cafe with exact ratios, gear tips, and a simple setup that works in any space."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/how-a-small-coffee-bar-made-my-kitchen-f.webp"
+image: "/images/how-a-small-coffee-bar-made-my-kitchen-feel-like-a-cafe.webp"
 pubDate: "2026-08-16T19:56:29Z"
 ---
 
