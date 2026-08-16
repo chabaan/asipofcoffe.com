@@ -25,6 +25,7 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 			<a class="logo" href="/">{siteConfig.emoji} {siteConfig.domain}</a>
 			<nav>
 				<a href="/">Home</a>
+				<a href="/archive/">Archive</a>
 				{categories.map((c) => (
 					<a href={`/#${c?.toLowerCase().replace(/\s+/g, '-')}`}>{c}</a>
 				))}
