@@ -1,0 +1,40 @@
+---
+title: "Lavender Cold Brew Recipe: Exact Ratios and Technique"
+meta: "Learn the exact ratios and technique for lavender cold brew. A methodical guide to floral, smooth cold brew coffee without bitterness."
+category: "Coffee Recipes"
+author: "HenrikSorensen ."
+image: "https://asipofcoffe.com/wp-content/uploads/2026/08/lavender-cold-brew-recipe-exact-ratios-a.webp"
+pubDate: "2026-08-18T19:55:20Z"
+---
+
+<p>The first time I made lavender cold brew, I got it wrong. The lavender was overpowering, like drinking perfume. The coffee was thin and bitter. So I went back to the basics: ratios, timing, and technique. Here is the version I now make — the one people keep asking about.</p>
+<figure><img src="https://cdn.midjourney.com/550942cf-aea7-4f5f-b46a-d604e9b0182e/0_3.png" alt="Straining cold brew coffee through a cheesecloth-lined strainer into a glass carafe" /></figure>
+<h2>The Ratio That Works</h2><p>Cold brew is forgiving, but precision matters. I use a 1:8 coffee-to-water ratio by weight. That means 1 ounce (28 grams) of coffee for every 8 ounces (240 ml) of water. For a batch that serves four, I use 4 ounces (113 grams) of coffee and 32 ounces (960 ml) of water. This produces a concentrate I dilute later.</p><p>Grind size is critical. Too fine, and you extract bitter compounds over the long steep. Too coarse, and the brew is weak. I aim for a medium-coarse grind — think sea salt or raw sugar. The particles should feel gritty, not powdery.</p><h2>Steep Time: Why 16 Hours</h2><p>I steep for exactly 16 hours at room temperature. Less than 14 hours, and the coffee tastes underdeveloped. More than 18 hours, and bitterness creeps in. The sweet spot is 16 hours. I start it in the evening and strain it the next morning. The water should be filtered and at room temperature — never hot.</p><p>One common mistake: stirring only once. I stir gently at the start to saturate all grounds, then again at the 8-hour mark. This ensures even extraction without agitating too much.</p><h2>Lavender Simple Syrup: The Right Balance</h2><p>The lavender syrup is where most people go wrong. Too much lavender, and it tastes like soap. Too little, and you miss it entirely. I use 2 tablespoons of dried culinary lavender buds per 1/2 cup of water and 1/2 cup of sugar. Heat the water and sugar until dissolved, then remove from heat. Add the lavender and steep for exactly 10 minutes. Strain immediately. Any longer, and the flavor turns bitter and floral in an unpleasant way.</p><p>Why dried lavender? It is consistent and available year-round. Fresh lavender varies in potency and can introduce a grassy note. Stick with dried culinary grade — it is labeled for eating, not for sachets.</p><h2>Straining Without Grit</h2><p>After 16 hours, I pour the cold brew through a fine-mesh strainer lined with a double layer of cheesecloth into a clean carafe. Do not press on the grounds — that pushes fine particles through. Let it drip naturally. If you see sediment, strain again through a paper coffee filter. A clean cup matters here.</p><h2>Serving: Build the Glass</h2><p>I serve cold brew over ice in a tall glass. Fill the glass with ice, then pour the concentrate until it is three-quarters full. Add 1 to 2 tablespoons of lavender syrup — start with one and adjust. Stir gently. The syrup sinks, so stir thoroughly. I sometimes add a splash of oat milk for body, but the coffee stands well on its own.</p><p>For a visual cue: the finished drink should be dark brown with a slight purple tint from the syrup. The aroma is floral but not cloying, with the coffee's chocolate notes underneath.</p><h2>Storage and Shelf Life</h2><p>The cold brew concentrate keeps in the refrigerator for up to one week. The lavender syrup lasts two weeks in an airtight container. I label both with dates. After that, the lavender flavor fades, and the coffee oxidizes.</p><h2>Why This Works</h2><p>Cold brew naturally highlights floral and chocolate notes in coffee. Lavender complements those without competing. The 1:8 ratio gives body without bitterness. The 16-hour steep extracts flavor without overdoing it. Each step has a reason.</p><p>If you try this, pay attention to the grind and steep time. Those two variables make or break the batch. And remember: caffeine affects everyone differently. If you are sensitive, start with a smaller serving or use decaf beans. Cold brew is concentrated, so adjust to your tolerance.</p><p><strong>Takeaway:</strong> Lavender cold brew is about balance. Get the ratio right, respect the steep time, and use lavender sparingly. That is how you get a drink people actually ask for — not one they politely finish.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use fresh lavender instead of dried?</h3>
+<p>Yes, but dried lavender is more concentrated and easier to dose. If using fresh, double the amount and steep for a shorter time to avoid a soapy flavor.</p>
+<h3>Why is my cold brew bitter?</h3>
+<p>Bitterness usually comes from over-steeping (beyond 18 hours) or grinding too fine. Use a medium-coarse grind and stick to 16 hours for a smooth result.</p>
+<h3>Can I make this decaf?</h3>
+<p>Absolutely. Use decaf beans with the same grind and ratio. The lavender syrup adds flavor regardless of caffeine content.</p>
+
+
+<!--WPRM Recipe 842-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Lavender Cold Brew</h2>
+	<img class="wprm-fallback-recipe-image" src="https://asipofcoffe.com/wp-content/uploads/2026/08/lavender-cold-brew-recipe-exact-ratios-a-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A smooth, floral cold brew infused with lavender simple syrup. This recipe uses a precise 1:8 coffee-to-water ratio and a 16-hour steep for a balanced, aromatic cup.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>Mason jar or cold brew maker</li><li>fine-mesh strainer or cheesecloth</li><li>mixing bowl</li><li>small saucepan</li><li>airtight storage bottle</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 cup coarsely ground coffee (medium-coarse, like sea salt, 8 cups filtered water (room temperature), 1/2 cup water (for syrup), 1/2 cup granulated sugar, 2 tablespoons dried culinary lavender buds, Ice cubes (for serving))</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>In a large mason jar or cold brew maker, combine the coarsely ground coffee and 8 cups filtered water. Stir gently to ensure all grounds are saturated. 2. Cover and let steep at room temperature for 16 hours. Do not exceed 18 hours, or bitterness may develop. 3. While the coffee steeps, make the lavender simple syrup: In a small saucepan, combine 1/2 cup water and 1/2 cup sugar. Heat over medium, stirring, until sugar dissolves. Remove from heat, add 2 tablespoons dried lavender buds, and let steep for 10 minutes. Strain out the buds and let syrup cool completely. 4. After 16 hours, strain the cold brew through a fine-mesh strainer lined with cheesecloth into a clean container. Discard the grounds. 5. To serve, fill a glass with ice. Pour cold brew concentrate over ice until glass is 3/4 full. Add 1 to 2 tablespoons of lavender syrup to taste. Stir gently. 6. Store leftover cold brew concentrate in the refrigerator for up to 1 week. Keep lavender syrup refrigerated in an airtight container for up to 2 weeks.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For a stronger lavender flavor, let the buds steep in the syrup for up to 20 minutes. If you prefer a less sweet drink, reduce syrup to 1 tablespoon per serving. This cold brew concentrate is 4x strength; dilute with water or milk if desired. Always handle hot syrup carefully to avoid burns. Caffeine sensitivity varies; start with a smaller serving if you are new to cold brew.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Beverage</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
