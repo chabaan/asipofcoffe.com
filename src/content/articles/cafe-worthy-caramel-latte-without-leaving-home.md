@@ -1,7 +1,7 @@
 ---
 title: "Cafe-Worthy Caramel Latte Without Leaving Home"
 meta: "Learn to craft a cafe-worthy caramel latte without leaving home—no espresso machine needed. Perfect for camping or cozy mornings."
-category: "Uncategorized"
+category: "Hot Latte & Espresso Drinks"
 author: "SofiaBianchi."
 image: "/images/cafe-worthy-caramel-latte-without-leaving-home.webp"
 pubDate: "2026-08-22T19:20:57Z"
