@@ -36,6 +36,16 @@ h2.section-title{text-align:center;color:var(--coffee);font-size:1.4rem;margin-b
 .pagination .page-link.disabled{color:#595959;border-color:#eee;pointer-events:none;}
 .pagination .page-info{color:#6b6b6b;font-size:.85rem;}
 
+.archive-list{max-width:760px;margin:0 auto;}
+.archive-group{margin-bottom:32px;}
+.archive-month{color:var(--coffee);font-size:1.15rem;border-bottom:2px solid var(--border);padding-bottom:8px;margin-bottom:12px;}
+.archive-count{color:#999;font-weight:normal;font-size:.85rem;}
+.archive-items{list-style:none;padding:0;margin:0;}
+.archive-items li{display:flex;justify-content:space-between;align-items:baseline;padding:8px 0;border-bottom:1px solid #f0e9df;gap:16px;}
+.archive-items a{color:#2b1c12;text-decoration:none;font-size:.95rem;}
+.archive-items a:hover{color:var(--accent);}
+.archive-items time{color:#999;font-size:.8rem;white-space:nowrap;}
+
 article.post{max-width:760px;margin:0 auto;padding:36px 24px;}
 article.post .back{display:inline-block;margin-bottom:18px;color:var(--accent);text-decoration:none;font-size:.85rem;}
 article.post img.featured{width:100%;max-height:440px;object-fit:cover;border-radius:10px;margin-bottom:22px;}
