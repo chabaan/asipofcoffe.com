@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../site.config';
+
+interface Props {
+	title: string;
+	description?: string;
+}
+const { title, description = siteConfig.defaultDescription } = Astro.props;
+
+const articles = await getCollection('articles');
+const categories = [...new Set(articles.map((a) => a.data.category).filter(Boolean))];
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+	</head>
+	<body>
+		<header class="site-header">
+			<a class="logo" href="/">{siteConfig.emoji} {siteConfig.domain}</a>
+			<nav>
+				<a href="/">Home</a>
+				{categories.map((c) => (
+					<a href={`/#${c?.toLowerCase().replace(/\s+/g, '-')}`}>{c}</a>
+				))}
+			</nav>
+		</header>
+		<div class="hero">
+			<h1>{siteConfig.name}</h1>
+			<p>{siteConfig.tagline}</p>
+		</div>
+		<slot />
+		<footer class="site-footer">{siteConfig.footerText}</footer>
+	</body>
+</html>

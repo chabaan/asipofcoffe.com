@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../site.config';
+
+export async function getStaticPaths({ paginate }) {
+	const articles = await getCollection('articles');
+	return paginate(articles, { pageSize: siteConfig.articlesPerPage });
+}
+
+const { page } = Astro.props;
+const totalArticles = page.total;
+---
+<Base title={`${siteConfig.name} — Home`}>
+	<main>
+		<h2 class="section-title">Latest Articles ({totalArticles})</h2>
+		<div class="grid">
+			{page.data.map((a, i) => (
+				<div class="card">
+					<a href={`/articles/${a.id}/`}>
+						{page.currentPage === 1 && i === 0 ? (
+							<img class="thumb" src={a.data.image} alt={a.data.title} fetchpriority="high" onerror="this.style.display='none'" />
+						) : (
+							<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						)}
+						<div class="body">
+							<div class="cat">{a.data.category}</div>
+							<h3>{a.data.title}</h3>
+							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+						</div>
+					</a>
+				</div>
+			))}
+		</div>
+
+		{page.lastPage > 1 && (
+			<nav class="pagination">
+				{page.url.prev ? <a href={page.url.prev} class="page-link">&larr; Previous</a> : <span class="page-link disabled">&larr; Previous</span>}
+				<span class="page-info">Page {page.currentPage} of {page.lastPage}</span>
+				{page.url.next ? <a href={page.url.next} class="page-link">Next &rarr;</a> : <span class="page-link disabled">Next &rarr;</span>}
+			</nav>
+		)}
+	</main>
+</Base>
