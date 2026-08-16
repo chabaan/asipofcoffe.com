@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 ---
-<Base title={article.data.title}>
+<Base title={article.data.title} description={article.data.meta}>
 	<article class="post">
 		<a class="back" href="/">&larr; Back to home</a>
 		<img class="featured" src={article.data.image} alt={article.data.title} onerror="this.style.display='none'" />
