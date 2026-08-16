@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../../site.config';
+
+export async function getStaticPaths({ paginate }) {
+	const articles = await getCollection('articles');
+	const sorted = articles.sort((a, b) => {
+		const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+		const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+		return db - da;
+	});
+	const pages = paginate(sorted, { pageSize: siteConfig.articlesPerPage });
+	// skip page 1, it's handled by src/pages/index.astro
+	return pages.slice(1);
+}
+
+const { page } = Astro.props;
+const totalArticles = page.total;
+
+function pageUrl(url) {
+	if (!url) return null;
+	// paginate() generates /page/1, /page/2 etc. Page 1 should map to root "/"
+	if (url === '/page/1') return '/';
+	return url + '/';
+}
+---
+<Base title={`${siteConfig.name} — Page ${page.currentPage}`}>
+	<main>
+		<h2 class="section-title">Latest Articles ({totalArticles})</h2>
+		<div class="grid">
+			{page.data.map((a) => (
+				<div class="card">
+					<a href={`/${a.id}/`}>
+						<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						<div class="body">
+							<div class="cat">{a.data.category}</div>
+							<h3>{a.data.title}</h3>
+							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+						</div>
+					</a>
+				</div>
+			))}
+		</div>
+
+		<nav class="pagination">
+			{page.url.prev ? <a href={pageUrl(page.url.prev)} class="page-link">&larr; Previous</a> : <span class="page-link disabled">&larr; Previous</span>}
+			<span class="page-info">Page {page.currentPage} of {page.lastPage}</span>
+			{page.url.next ? <a href={pageUrl(page.url.next)} class="page-link">Next &rarr;</a> : <span class="page-link disabled">Next &rarr;</span>}
+		</nav>
+	</main>
+</Base>
