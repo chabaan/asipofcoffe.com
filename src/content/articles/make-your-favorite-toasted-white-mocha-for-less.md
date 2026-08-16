@@ -1,7 +1,7 @@
 ---
 title: "Make Your Favorite Toasted White Mocha for Less"
 meta: "Learn to make a toasted white mocha at camp for a fraction of the price. Easy make-ahead mix, no fridge needed, and a campfire twist."
-category: "Uncategorized"
+category: "Hot Latte & Espresso Drinks"
 author: "LucasMoreau."
 image: "/images/make-your-favorite-toasted-white-mocha-for-less.webp"
 pubDate: "2026-08-23T22:00:37Z"
