@@ -1,7 +1,7 @@
 ---
 title: "Hot Cocoa Mocha: The Campfire Blanket-Worthy Recipe"
 meta: "Make a hot cocoa mocha worth pulling out the blanket for—campfire cocoa with instant coffee, real chocolate, and a frothy top."
-category: "Uncategorized"
+category: "Hot Latte & Espresso Drinks"
 author: "LucasMoreau."
 image: "/images/hot-cocoa-mocha-the-campfire-blanket-worthy-recipe.webp"
 pubDate: "2026-08-24T13:42:37Z"
