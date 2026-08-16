@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../site.config';
+
+const articles = await getCollection('articles');
+const sorted = articles.sort((a, b) => {
+	const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+	const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+	return db - da;
+});
+
+const pageSize = siteConfig.articlesPerPage;
+const pageItems = sorted.slice(0, pageSize);
+const lastPage = Math.ceil(sorted.length / pageSize);
+const totalArticles = sorted.length;
+---
+<Base title={`${siteConfig.name} — Home`}>
+	<main>
+		<h2 class="section-title">Latest Articles ({totalArticles})</h2>
+		<div class="grid">
+			{pageItems.map((a, i) => (
+				<div class="card">
+					<a href={`/${a.id}/`}>
+						{i === 0 ? (
+							<img class="thumb" src={a.data.image} alt={a.data.title} fetchpriority="high" onerror="this.style.display='none'" />
+						) : (
+							<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						)}
+						<div class="body">
+							<div class="cat">{a.data.category}</div>
+							<h3>{a.data.title}</h3>
+							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+						</div>
+					</a>
+				</div>
+			))}
+		</div>
+
+		{lastPage > 1 && (
+			<nav class="pagination">
+				<span class="page-link disabled">&larr; Previous</span>
+				<span class="page-info">Page 1 of {lastPage}</span>
+				<a href="/page/2/" class="page-link">Next &rarr;</a>
+			</nav>
+		)}
+	</main>
+</Base>
