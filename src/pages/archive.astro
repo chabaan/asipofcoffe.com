@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+const sorted = articles.sort((a, b) => {
+	const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+	const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+	return db - da;
+});
+
+const groups = new Map();
+for (const a of sorted) {
+	const d = a.data.pubDate ? new Date(a.data.pubDate) : null;
+	const key = d ? `${d.toLocaleString('en-US', { month: 'long' })} ${d.getFullYear()}` : 'Undated';
+	if (!groups.has(key)) groups.set(key, []);
+	groups.get(key).push(a);
+}
+---
+<Base title="Archive">
+	<main>
+		<h2 class="section-title">Archive ({articles.length} articles)</h2>
+		<div class="archive-list">
+			{[...groups.entries()].map(([month, items]) => (
+				<div class="archive-group">
+					<h3 class="archive-month">{month} <span class="archive-count">({items.length})</span></h3>
+					<ul class="archive-items">
+						{items.map((a) => (
+							<li>
+								<a href={`/articles/${a.id}/`}>{a.data.title}</a>
+								{a.data.pubDate && (
+									<time datetime={new Date(a.data.pubDate).toISOString()}>
+										{new Date(a.data.pubDate).toLocaleDateString('en-US', { day: 'numeric', month: 'short' })}
+									</time>
+								)}
+							</li>
+						))}
+					</ul>
+				</div>
+			))}
+		</div>
+	</main>
+</Base>
