@@ -3,7 +3,8 @@ title: "Caramel Macchiato in Under 5 Minutes (No Barista Needed)"
 meta: "Make a caramel macchiato in under 5 minutes at home. No barista needed. Learn the exact layering technique, milk texture, and ratio for café-quality results."
 category: "Coffee Recipes"
 author: "Lucas Moreau"
-image: "/images/caramel-macchiato-in-under-5-minutes-no-barista-needed.webp"
+pubDate: "2026-06-12T12:33:49Z"
+image: "https://cdn.midjourney.com/8ce6f132-cafb-44ec-bf2f-3a8524217962/0_0.png"
 ---
 
 <p>I still remember the first time I watched a barista build a caramel macchiato. They poured the milk, then the espresso—slowly, carefully—over the back of a spoon. The dark coffee sat on top of the white milk like a cap. A few lines of caramel, and it was done. It looked impossible to replicate at home. But it’s not. In fact, with the right ratios and a little patience, you can make a caramel macchiato in under 5 minutes. No barista badge required.</p>
