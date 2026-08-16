@@ -3,7 +3,8 @@ title: "The Cortado That Beats the Coffee Shop"
 meta: "Learn the exact method to make a cortado at home that rivals any café. A specific ratio and technique for balanced, velvety espresso."
 category: "Coffee Living"
 author: "Lucas Moreau"
-image: "/images/the-cortado-that-beats-the-coffee-shop.webp"
+pubDate: "2026-06-08T12:34:50Z"
+image: "https://cdn.midjourney.com/af5ff281-c340-439a-9270-cb7bd87d79ea/0_0.png"
 ---
 
 <p>The first time I pulled a cortado that matched the one from my favorite café, I felt a quiet triumph. No fanfare—just the sight of that thin, even layer of microfoam settling on top of the espresso, and the first sip that hit the same balance of bold and creamy. It's not magic. It's a specific ratio and a careful hand. Here's how to get it right, every time.</p>
