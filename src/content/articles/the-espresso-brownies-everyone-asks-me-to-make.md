@@ -1,7 +1,7 @@
 ---
 title: "The Espresso Brownies Everyone Asks Me to Make"
 meta: "Learn the exact technique for espresso brownies that balance deep coffee flavor with fudgy texture. A barista's method for perfect results every time."
-category: "Coffee Recipes"
+category: "Baking"
 author: "Lucas Moreau"
 pubDate: "2026-06-19T12:34:59Z"
 image: "/images/the-espresso-brownies-everyone-asks-me-to-make.webp"
