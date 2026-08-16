@@ -27,7 +27,7 @@ for (const a of sorted) {
 					<ul class="archive-items">
 						{items.map((a) => (
 							<li>
-								<a href={`/articles/${a.id}/`}>{a.data.title}</a>
+								<a href={`/${a.id}/`}>{a.data.title}</a>
 								{a.data.pubDate && (
 									<time datetime={new Date(a.data.pubDate).toISOString()}>
 										{new Date(a.data.pubDate).toLocaleDateString('en-US', { day: 'numeric', month: 'short' })}
