@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const articles = await getCollection('articles');
+	return articles.map((a) => ({
+		params: { id: a.id },
+		props: { article: a },
+	}));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+---
+<Base title={article.data.title} description={article.data.meta}>
+	<article class="post">
+		<a class="back" href="/">&larr; Back to home</a>
+		<img class="featured" src={article.data.image} alt={article.data.title} onerror="this.style.display='none'" />
+		<div class="cat">{article.data.category}</div>
+		<h1>{article.data.title}</h1>
+		<div class="meta">By {article.data.author}</div>
+		<div class="content"><Content /></div>
+	</article>
+</Base>
