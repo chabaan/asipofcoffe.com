@@ -3,7 +3,8 @@ title: "Cozy Pumpkin Cream Cold Foam Latte Recipe for Sweater Weather"
 meta: "Learn to make a cozy pumpkin cream cold foam latte at home with precise ratios and technique. Perfect for sweater weather."
 category: "Coffee Recipes"
 author: "Lucas Moreau"
-image: "/images/cozy-pumpkin-cream-cold-foam-latte-recipe-for-sweater-weather.webp"
+pubDate: "2026-06-15T12:33:42Z"
+image: "https://cdn.midjourney.com/2d3fac26-537a-4e20-8ab8-1c1abf3d516e/0_0.png"
 ---
 
 <p>The first real chill of autumn hits, and suddenly nothing else matters but that first sip of something warm-spiced and creamy. I get it. The pumpkin cream cold foam latte from the chain shops is tempting, but the version you can make at home is more balanced—less sweet, more coffee-forward, and exactly as indulgent as you want it.</p>
