@@ -6,7 +6,7 @@ body{font-family:Georgia,'Times New Roman',serif;background:var(--cream);color:#
 header.site-header{background:#fff;border-bottom:1px solid var(--border);padding:18px 32px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;}
 header.site-header .logo{font-size:1.5rem;font-weight:bold;color:var(--coffee);text-decoration:none;padding:10px 4px;display:inline-block;}
 header.site-header nav{display:flex;gap:8px;flex-wrap:wrap;}
-header.site-header nav a{color:#333;text-decoration:none;font-size:.8rem;letter-spacing:.5px;text-transform:uppercase;font-weight:600;padding:12px 10px;display:inline-flex;align-items:center;min-height:44px;box-sizing:border-box;}
+header.site-header nav a{color:#333;text-decoration:none;font-size:.8rem;letter-spacing:.5px;text-transform:uppercase;font-weight:600;padding:12px 10px;display:inline-block;min-height:44px;box-sizing:border-box;display:inline-flex;align-items:center;}
 header.site-header nav a:hover{color:var(--accent);}
 
 .hero{background:var(--coffee);color:#fff;padding:36px 20px;text-align:center;}

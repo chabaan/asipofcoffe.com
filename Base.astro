@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+import { getCollection } from 'astro:content';
+
+interface Props {
+	title: string;
+	description?: string;
+}
+const { title, description = "Recipes, brews, and coffee living — discover easy coffee recipes and coffee lifestyle inspiration." } = Astro.props;
+
+const articles = await getCollection('articles');
+const categories = [...new Set(articles.map((a) => a.data.category).filter(Boolean))];
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+	</head>
+	<body>
+		<header class="site-header">
+			<a class="logo" href="/">☕ asipofcoffe.com</a>
+			<nav>
+				<a href="/">Home</a>
+				{categories.map((c) => (
+					<a href={`/#${c?.toLowerCase().replace(/\s+/g, '-')}`}>{c}</a>
+				))}
+			</nav>
+		</header>
+		<div class="hero">
+			<h1>A Sip of Coffee</h1>
+			<p>Recipes, brews & coffee living</p>
+		</div>
+		<slot />
+		<footer class="site-footer">Built with Astro — synced from Google Sheet & WordPress backup</footer>
+	</body>
+</html>
