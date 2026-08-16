@@ -1,0 +1,42 @@
+---
+title: "The Hazelnut Cold Brew Worth Setting Your Alarm For"
+meta: "Wake up for this hazelnut cold brew recipe. I share exact ratios, grind size, and steeping time for a smooth, naturally sweet concentrate."
+category: "Coffee Recipes"
+author: "HenrikSorensen ."
+image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-hazelnut-cold-brew-worth-setting-you.webp"
+pubDate: "2026-08-12T21:37:21Z"
+---
+
+<p>The first sip hits you with a round, mellow sweetness—no sharp edges, no bitterness. That’s the magic of a properly made hazelnut cold brew. Not a syrup-laden coffee drink, but a cold brew where the nutty character is infused directly into the concentrate. It’s a quiet morning ritual that makes hitting the snooze button feel like a waste.</p>
+<figure><img src="https://cdn.midjourney.com/a4a370c4-5207-4c98-9564-6f6d528bf960/0_3.png" alt="Coarse coffee grounds and chopped hazelnuts in a jar before adding water" /></figure>
+<p>I keep the ratio at 1:4 by weight—100 grams of coffee to 400 grams of water. This gives a concentrate you can dilute. For the hazelnut, I add 30 grams of raw, chopped hazelnuts directly to the grounds. No extracts, no flavored syrups. The natural oils from the nuts infuse slowly over 24 hours, lending a subtle sweetness and a velvety texture that syrup can’t replicate.</p><h2>Why Whole Beans and Coarse Grind Matter</h2><p>Start with whole beans. Pre-ground coffee loses volatile aromas within minutes. For cold brew, the grind must be coarse—think coarse sea salt. A too-fine grind extracts harsh compounds and makes filtration a nightmare. I set my grinder to the coarsest setting, then pulse to avoid creating fines. The result: a uniform bed of particles that release flavor evenly over the long steep.</p><h3>Visual Cue for Grind Size</h3><p>Spread a pinch of grounds on a white plate. You should see distinct chunks, not powder. If the particles look like sand, you’re in the right range. If they look like dust, regrind—but with a coarse setting.</p><h2>The 24-Hour Steep: Why Not Longer</h2><p>I steep in the refrigerator, not on the counter. Room temperature speeds extraction but also encourages bacterial growth. A 24-hour chill steep gives a smooth, low-acid brew. Steeping longer than 30 hours brings out bitter tannins from the hazelnut skins and coffee. Set a timer when you start. I use a simple kitchen timer taped to the jar.</p><p>One common mistake: stirring too vigorously after the first few hours. Stir gently once at the beginning to wet all grounds, then leave it alone. Agitation can break down the coffee bed unevenly, leading to a muddy final product.</p><h2>Filtration: The Clean Finish</h2><p>After 24 hours, line a fine-mesh strainer with two layers of cheesecloth or use a dedicated nut milk bag. Pour the concentrate through slowly. Don’t press or squeeze the solids—that forces fine particles through. Let gravity do the work. If you want an extra-clean cup, strain a second time through a paper coffee filter. This removes the fine silt that can settle at the bottom of your glass.</p><p>The filtered concentrate should look like dark tea, not black ink. It will have a slight sheen from the hazelnut oils. That’s desirable—it adds mouthfeel.</p><h2>Serving: Dilution and Temperature</h2><p>I dilute 1:1 with cold water or whole milk. For a lighter body, try 2 parts water to 1 part concentrate. Pour over a single large ice cube—it melts slower than crushed ice, so the drink stays strong. Add a pinch of flaky salt on top if you want to amplify the nuttiness. No sugar needed; the hazelnut infusion brings enough natural sweetness.</p><h2>Common Mistake to Avoid</h2><p>Don’t use roasted hazelnuts from a can. They’re often salted or oiled, which throws off the flavor balance. Buy raw hazelnuts and toast them yourself if you want a deeper aroma. Toast at 350°F for 8 minutes, cool completely, then chop. The difference is noticeable.</p><h2>Takeaway</h2><p>This hazelnut cold brew is a technique, not a shortcut. The 24-hour steep, the coarse grind, the whole nuts—each step builds a cup that’s worth waking up early for. No syrups, no artificial flavoring. Just coffee and hazelnuts, working together slowly. Give it a try, and adjust the nut ratio to your taste. Start with 30 grams, then go up to 40 if you want a bolder hazelnut presence.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>Can I use roasted hazelnuts instead of raw?</h3>
+<p>Yes, but roast them yourself for best flavor. Pre-roasted nuts from a bag may have added oil or salt that can affect the brew. Dry-roast raw hazelnuts at 350°F for 8-10 minutes until golden, then cool completely.</p>
+<h3>Why add salt to cold brew?</h3>
+<p>A tiny pinch of salt (1/4 teaspoon per quart) doesn’t make the coffee salty. It enhances the nutty notes and reduces perceived bitterness, smoothing the finish. It’s a trick used in many coffee cupping sessions.</p>
+<h3>How long does hazelnut cold brew concentrate last?</h3>
+<p>Stored in a sealed container in the refrigerator, it stays fresh for up to 10 days. The hazelnut flavor will fade after 5-6 days, so I recommend using it within a week for the brightest taste.</p>
+<h3>Can I use ground hazelnuts instead of chopped?</h3>
+<p>I don’t recommend it. Finely ground hazelnuts can slip through the strainer, leaving a gritty texture. Chopped pieces release flavor slowly and are easier to filter out cleanly.</p>
+
+
+<!--WPRM Recipe 689-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Hazelnut Cold Brew Concentrate</h2>
+	<img class="wprm-fallback-recipe-image" src="https://asipofcoffe.com/wp-content/uploads/2026/08/the-hazelnut-cold-brew-worth-setting-you-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A smooth, naturally sweet cold brew concentrate infused with hazelnut flavor. Perfect over ice or mixed with milk.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>1-quart mason jar</li><li>fine-mesh strainer</li><li>cheesecloth or nut milk bag</li><li>kitchen scale</li><li>grinder</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 cup 100g whole coffee beans, coarsely ground</li><li>4 cups 950ml cold, filtered water</li><li>1/4 cup 30g raw hazelnuts, roughly chopped</li><li>1/4 teaspoon salt (optional, enhances nuttiness)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Grind the coffee beans to a coarse consistency—like breadcrumbs. Uneven grounds lead to over-extraction and bitterness.</li><li>In a 1-quart mason jar, combine the ground coffee, chopped hazelnuts, and salt if using. Stir to distribute.</li><li>Pour in the cold water. Stir gently to saturate all grounds. The mixture should look like wet sand.</li><li>Seal the jar and place it in the refrigerator for 24 hours. Do not steep longer—hazelnut oils can turn rancid, and coffee becomes overly bitter.</li><li>After 24 hours, line a fine-mesh strainer with cheesecloth or use a nut milk bag. Strain the concentrate into a clean container. Press gently on the solids to extract liquid, but don’t squeeze hard or you’ll get sediment.</li><li>Discard the solids. The concentrate will keep in the fridge for up to 10 days.</li><li>To serve, dilute 1 part concentrate with 1 part water or milk. Pour over ice and enjoy.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For a stronger hazelnut aroma, toast the hazelnuts in a dry skillet over medium heat for 3-4 minutes until fragrant, then cool completely before adding. Store the concentrate in a sealed glass container. Caffeine content varies by bean and brew strength; consume mindfully.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Beverage</div><div class="wprm-fallback-recipe-meta-cuisine">American</div>	</div>
+</div>
+<!--End WPRM Recipe-->
