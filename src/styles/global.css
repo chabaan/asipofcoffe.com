@@ -38,4 +38,4 @@ article.post h1{color:var(--coffee);margin:10px 0;}
 article.post .meta{color:#888;font-size:.85rem;margin-bottom:24px;}
 article.post .content img{max-width:100%;border-radius:8px;}
 
-footer.site-footer{text-align:center;padding:28px;color:#999;font-size:.8rem;border-top:1px solid var(--border);margin-top:20px;}
+footer.site-footer{text-align:center;padding:28px;color:#6b6b6b;font-size:.8rem;border-top:1px solid var(--border);margin-top:20px;}
