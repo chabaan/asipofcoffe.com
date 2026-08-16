@@ -1,7 +1,7 @@
 ---
 title: "Banana Coffee Smoothie with 30g Protein (Dessert-Like)"
 meta: "Make a banana coffee smoothie with 30g protein that tastes like dessert. Easy make-ahead camp breakfast, no refrigeration needed for dry mix."
-category: "Uncategorized"
+category: "Hot Latte & Espresso Drinks"
 author: "LucasMoreau."
 image: "/images/banana-coffee-smoothie-with-30g-protein-dessert-like.webp"
 pubDate: "2026-08-23T19:56:14Z"
