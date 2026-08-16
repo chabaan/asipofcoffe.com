@@ -1,0 +1,40 @@
+---
+title: "My Coffee Bar Counter Setup in One Afternoon"
+meta: "Set up a coffee bar counter in one afternoon with this practical guide. Includes exact ratios, gear tips, and a simple espresso tonic recipe."
+category: "Coffee Living"
+author: "SofiaBianchi."
+image: "https://asipofcoffe.com/wp-content/uploads/2026/08/my-coffee-bar-counter-setup-in-one-after.webp"
+pubDate: "2026-08-18T12:11:30Z"
+---
+
+<p>The idea came on a quiet Saturday. I had a corner of the kitchen counter that collected mail and dust. By late afternoon, it held a functioning coffee bar. No renovation, no special carpentry. Just a few decisions about what to put where, and a commitment to keep it simple.</p>
+<figure><img src="https://cdn.midjourney.com/adce49f9-6be8-4374-bbbf-d8b64fcbfa40/0_3.png" alt="Pouring espresso over tonic water in an ice-filled glass" /></figure>
+<h2>Choosing the Spot</h2><p>Look for a surface near a power outlet and a sink. The outlet powers the grinder and kettle. The sink makes cleanup fast. I cleared a two-foot stretch of counter, wiped it down, and placed a wooden cutting board as a base. It protects the counter and catches stray grounds.</p><h2>The Gear I Kept Visible</h2><p>Three things stay on the board: the grinder, the brewer, and the kettle. Everything else lives in a drawer or a small basket. I use a scale with a timer—it sits next to the grinder. For espresso, I keep the portafilter on the machine, not in a drawer. That small habit saves me five seconds every morning.</p><p>For pour over, I set the dripper on top of the carafe. The filters go in a ceramic jar beside the board. No more rummaging through cabinets while the water boils.</p><h2>The One-Afternoon Setup: Step by Step</h2><h3>1. Measure the Space</h3><p>I laid out everything I use daily: grinder, kettle, brewer, scale, and two cups. If they fit with room to spare, the spot works. If not, I remove one item. A cramped counter leads to spills.</p><h3>2. Organize by Workflow</h3><p>I place the grinder on the left, the brewer in the middle, and the kettle on the right. That matches my hand movement: grind, dose, pour. The scale stays near the grinder for weighing beans. The cups sit on a small shelf above the counter.</p><h3>3. Add a Tray for Accessories</h3><p>A small tray holds the tamper, a dosing funnel, and a knock box. I use a stainless steel tray that wipes clean. It keeps loose items from wandering across the counter.</p><h3>4. Store Beans Properly</h3><p>I keep beans in an opaque, airtight container on the counter. No direct sunlight. I buy only what I use in two weeks. The container has a one-way valve, but I still press out excess air after each use.</p><h2>The Ratio That Changed My Morning</h2><p>For pour over, I keep the ratio at 60 grams of coffee per liter of water. That is 15 grams of coffee to 250 grams of water for a single cup. I grind to the consistency of sea salt. Water temperature: 96°C, just off the boil. Pour in three stages: a 30-second bloom with double the coffee weight in water, then two slow pours with a 15-second pause between them. Total brew time: 3 minutes. If it runs faster, I grind finer. If it stalls, I grind coarser.</p><p>For espresso, I aim for a 1:2 ratio—18 grams in, 36 grams out in 28 seconds. The grind is fine, like powdered sugar. The puck should be firm and dry after tamping. A common mistake is tamping too hard. I use consistent pressure, about 15 kilograms, and focus on leveling the grounds before tamping.</p><h2>A Simple Recipe: Espresso Tonic</h2><p>The coffee bar is not just for mornings. On warm afternoons, I make an espresso tonic. It takes five minutes.</p><p>Brew a double shot of espresso. While it runs, fill a tall glass with ice. Pour 120ml of chilled tonic water over the ice. Slowly pour the hot espresso over the tonic. The foam rises and separates into layers. Add a lemon twist if you like. The bitterness of the coffee balances the sweetness of the tonic. Serve immediately.</p><p>One tip: use a tonic with real sugar, not artificial sweeteners. The mouthfeel is rounder and the bubbles last longer.</p><h2>Common Mistakes to Avoid</h2><ul><li><strong>Clutter:</strong> Too many gadgets on the counter slow you down. Keep only what you use every day.</li><li><strong>Stale beans:</strong> Buy whole beans and grind just before brewing. Pre-ground coffee loses aroma within minutes.</li><li><strong>Ignoring water quality:</strong> Use filtered water. Tap water with high mineral content can alter extraction and leave scale in your kettle.</li><li><strong>Skipping the scale:</strong> Volume measures are inconsistent. Weighing coffee and water gives repeatable results.</li></ul><h2>Safety Note</h2><p>Hot water and steam can cause burns. Handle the kettle and espresso machine with care. Keep electrical cords away from water. If you are sensitive to caffeine, limit your intake. Consult a qualified professional for personal health decisions.</p><h2>Takeaway</h2><p>A coffee bar counter does not need to be elaborate. One afternoon, a clear surface, and a few intentional choices are enough. The goal is not perfection. It is making a good cup without friction. Start with the essentials, adjust as you go, and let the morning ritual find its rhythm.</p>
+
+<h2>Frequently Asked Questions</h2>
+<h3>What is the best ratio for espresso tonic?</h3>
+<p>I use a 1:2 ratio of espresso to tonic water. For a double shot (36g), add about 120ml tonic. Adjust to your taste—more tonic for a lighter drink, less for a stronger coffee flavor.</p>
+<h3>Can I use a moka pot instead of an espresso machine?</h3>
+<p>Yes, a moka pot works well. Brew a strong moka coffee (about 40ml) and let it cool slightly before pouring over the tonic to avoid excessive melting of ice.</p>
+<h3>How do I keep my coffee bar counter organized?</h3>
+<p>Group items by frequency of use. Keep your grinder and brewer on the counter, store beans in an airtight container nearby, and use a small tray for spoons and cups. Clean as you go to avoid clutter.</p>
+
+
+<!--WPRM Recipe 838-->
+<div class="wprm-fallback-recipe">
+	<h2 class="wprm-fallback-recipe-name">Espresso Tonic</h2>
+	<img class="wprm-fallback-recipe-image" src="https://asipofcoffe.com/wp-content/uploads/2026/08/my-coffee-bar-counter-setup-in-one-after-150x150.webp"/>	<p class="wprm-fallback-recipe-summary">
+		A refreshing blend of espresso and tonic water with a hint of citrus, perfect for warm afternoons.	</p>
+	<div class="wprm-fallback-recipe-equipment">
+		<ul><li>espresso machine or Moka pot</li><li>glass</li><li>spoon</li><li>citrus peeler (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-ingredients">
+		<ul><li>1 double shot espresso (18g coffee, 36g yield)</li><li>120 ml chilled tonic water</li><li>Ice cubes</li><li>Lemon or orange twist (optional)</li></ul>	</div>
+	<div class="wprm-fallback-recipe-instructions">
+		<ol><li>Brew a double shot of espresso. Aim for 25-30 seconds extraction time.</li><li>Fill a tall glass with ice cubes.</li><li>Pour tonic water over the ice.</li><li>Slowly pour the hot espresso over the tonic. Watch the foam rise.</li><li>Garnish with a citrus twist, if desired. Serve immediately.</li></ol>	</div>
+	<div class="wprm-fallback-recipe-notes">
+		<p>For a less intense version, use a single shot. Adjust tonic sweetness to taste. Serve cold, as the ice dilutes slightly.</p>
+	</div>
+	<div class="wprm-fallback-recipe-meta">
+		<div class="wprm-fallback-recipe-meta-course">Beverage</div><div class="wprm-fallback-recipe-meta-cuisine">Italian-inspired</div>	</div>
+</div>
+<!--End WPRM Recipe-->
