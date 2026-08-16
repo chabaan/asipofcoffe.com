@@ -1,7 +1,7 @@
 ---
 title: "Coffee Lovers, This Coffee Cake Is for You"
 meta: "A coffee cake recipe that actually tastes like coffee. Tips on grind size, bloom time, and why whole bean matters."
-category: "Coffee Living"
+category: "Baking"
 author: "Amara Diaz"
 pubDate: "2026-06-09T12:34:03Z"
 image: "/images/coffee-lovers-this-coffee-cake-is-for-you.webp"
