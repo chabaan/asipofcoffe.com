@@ -1,7 +1,7 @@
 ---
 title: "Copycat Pumpkin Spice Latte Recipe That Tastes Like Starbucks"
 meta: "Make a copycat pumpkin spice latte that tastes just like theirs. Exact ratios, real pumpkin, no artificial syrup. Barista-level method for home."
-category: "Coffee Recipes"
+category: "Beverages"
 author: "Priya Nair"
 pubDate: "2026-06-21T12:33:34Z"
 image: "/images/copycat-pumpkin-spice-latte-recipe-that-tastes-like-starbucks.webp"
