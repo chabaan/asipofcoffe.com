@@ -1,12 +1,13 @@
 ---
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
+import { siteConfig } from '../site.config';
 
 interface Props {
 	title: string;
 	description?: string;
 }
-const { title, description = "Recipes, brews, and coffee living — discover easy coffee recipes and coffee lifestyle inspiration." } = Astro.props;
+const { title, description = siteConfig.defaultDescription } = Astro.props;
 
 const articles = await getCollection('articles');
 const categories = [...new Set(articles.map((a) => a.data.category).filter(Boolean))];
@@ -21,7 +22,7 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 	</head>
 	<body>
 		<header class="site-header">
-			<a class="logo" href="/">☕ asipofcoffe.com</a>
+			<a class="logo" href="/">{siteConfig.emoji} {siteConfig.domain}</a>
 			<nav>
 				<a href="/">Home</a>
 				{categories.map((c) => (
@@ -30,10 +31,10 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 			</nav>
 		</header>
 		<div class="hero">
-			<h1>A Sip of Coffee</h1>
-			<p>Recipes, brews & coffee living</p>
+			<h1>{siteConfig.name}</h1>
+			<p>{siteConfig.tagline}</p>
 		</div>
 		<slot />
-		<footer class="site-footer">Built with Astro — synced from Google Sheet & WordPress backup</footer>
+		<footer class="site-footer">{siteConfig.footerText}</footer>
 	</body>
 </html>
