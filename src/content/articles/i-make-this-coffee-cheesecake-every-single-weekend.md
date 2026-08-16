@@ -3,7 +3,7 @@ title: "I Make This Coffee Cheesecake Every Single Weekend"
 meta: "Learn my exact technique for a creamy coffee cheesecake with a bold espresso kick. I share my weekend ritual and the ratio that makes it perfect."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/i-make-this-coffee-cheesecake-every-sing.webp"
+image: "/images/i-make-this-coffee-cheesecake-every-single-weekend.webp"
 pubDate: "2026-07-04T19:25:28Z"
 ---
 

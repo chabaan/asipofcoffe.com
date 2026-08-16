@@ -3,7 +3,7 @@ title: "Salted Maple Latte: The Drink That Made Fall My Favorite"
 meta: "Learn how to make a salted maple latte that balances sweet, savory, and coffee. My exact ratios, technique, and a tip you won't find elsewhere."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/salted-maple-latte-the-drink-that-made-f.webp"
+image: "/images/salted-maple-latte-the-drink-that-made-fall-my-favorite.webp"
 pubDate: "2026-07-06T13:42:40Z"
 ---
 

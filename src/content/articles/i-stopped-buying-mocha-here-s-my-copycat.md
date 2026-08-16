@@ -3,7 +3,7 @@ title: "I Stopped Buying Mocha — Here's My Copycat"
 meta: "I stopped buying mocha and created this copycat recipe. Learn the exact espresso-chocolate ratio for a balanced, non-syrupy homemade mocha."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/i-stopped-buying-mocha-here-s-my-copycat.webp"
+image: "/images/i-stopped-buying-mocha-here-s-my-copycat.webp"
 pubDate: "2026-06-24T14:10:14Z"
 ---
 

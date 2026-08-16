@@ -3,7 +3,7 @@ title: "Steal This Coffee Bar Cart Setup for Your Kitchen"
 meta: "Steal this coffee bar cart setup with exact ratios and a hidden tip for perfect pour-over. Build your own simple, warm station today."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/steal-this-coffee-bar-cart-setup-for-you.webp"
+image: "/images/steal-this-coffee-bar-cart-setup-for-your-kitchen.webp"
 pubDate: "2026-07-04T19:30:04Z"
 ---
 

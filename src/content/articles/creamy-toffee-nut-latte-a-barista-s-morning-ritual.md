@@ -3,7 +3,7 @@ title: "Creamy Toffee Nut Latte: A Barista's Morning Ritual"
 meta: "Learn my barista technique for a creamy toffee nut latte that changed my mornings. Exact ratios, temperature tips, and texture secrets for the perfect cup."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/creamy-toffee-nut-latte-a-barista-s-morn.webp"
+image: "/images/creamy-toffee-nut-latte-a-barista-s-morning-ritual.webp"
 pubDate: "2026-07-10T08:24:43Z"
 ---
 

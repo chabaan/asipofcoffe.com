@@ -3,7 +3,7 @@ title: "The Cozy Cappuccino for Slow Weekend Mornings"
 meta: "Make the cozy cappuccino for slow weekend mornings with my precise milk steaming and espresso ratio tips for a perfectly balanced cup."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-cozy-cappuccino-for-slow-weekend-mor.webp"
+image: "/images/the-cozy-cappuccino-for-slow-weekend-mornings.webp"
 pubDate: "2026-06-12T00:00:00Z"
 ---
 

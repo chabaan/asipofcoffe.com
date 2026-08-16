@@ -3,7 +3,7 @@ title: "Holiday Gingerbread Cold Brew That Beats Pumpkin Spice"
 meta: "Skip the pumpkin patch hype. This holiday gingerbread cold brew delivers real spice depth without fake syrup. Exact ratios, technique, and a secret molasses tri"
 category: "Coffee Recipes"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/holiday-gingerbread-cold-brew-that-beats.webp"
+image: "/images/holiday-gingerbread-cold-brew-that-beats-pumpkin-spice.webp"
 pubDate: "2026-08-13T14:21:17Z"
 ---
 

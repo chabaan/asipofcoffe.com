@@ -3,7 +3,7 @@ title: "Save $200 a Month With This Mocha Frappuccino Copycat"
 meta: "Learn how to make a mocha frappuccino copycat at home and save $200 a month. Exact ratios, technique, and tips for a creamy, coffee-shop-style drink."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/save-200-a-month-with-this-mocha-frappuc.webp"
+image: "/images/save-200-a-month-with-this-mocha-frappuccino-copycat.webp"
 pubDate: "2026-07-12T07:20:11Z"
 ---
 

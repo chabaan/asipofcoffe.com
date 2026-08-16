@@ -3,7 +3,7 @@ title: "The Sugar Free Iced Coffee That Tastes Like Cheating (But Isn't)"
 meta: "Learn how to make a sugar free iced coffee that's naturally sweet and bold. No syrups, no fake stuff—just technique and real flavor."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-sugar-free-iced-coffee-that-tastes-l.webp"
+image: "/images/the-sugar-free-iced-coffee-that-tastes-like-cheating-but-isn-t.webp"
 pubDate: "2026-07-11T21:41:54Z"
 ---
 

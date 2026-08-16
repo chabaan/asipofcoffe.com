@@ -3,7 +3,7 @@ title: "The Vanilla Sweet Cream Cold Brew That Replaced My Iced Coffee Habit"
 meta: "Learn how to make a rich vanilla sweet cream cold brew at home with a simple technique that beats any iced coffee."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-vanilla-sweet-cream-cold-brew-that-r.webp"
+image: "/images/the-vanilla-sweet-cream-cold-brew-that-replaced-my-iced-coffee-habit.webp"
 pubDate: "2026-07-02T13:32:35Z"
 ---
 

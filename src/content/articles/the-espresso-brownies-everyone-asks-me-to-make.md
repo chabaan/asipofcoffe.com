@@ -4,7 +4,7 @@ meta: "Learn the exact technique for espresso brownies that balance deep coffee 
 category: "Coffee Recipes"
 author: "Lucas Moreau"
 pubDate: "2026-06-19T12:34:59Z"
-image: "https://cdn.midjourney.com/c5a28a61-b396-4283-ae73-35fb717444ab/0_0.png"
+image: "/images/the-espresso-brownies-everyone-asks-me-to-make.webp"
 ---
 
 <p>There's a moment when the aroma of espresso and melting dark chocolate collide in the same bowl. It stops conversation. That scent — deep, roasty, bittersweet — is the reason these brownies disappear faster than any batch I've ever made. Not because they're complicated, but because the coffee doesn't shout. It deepens.</p>

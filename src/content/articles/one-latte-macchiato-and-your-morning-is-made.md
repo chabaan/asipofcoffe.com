@@ -3,7 +3,7 @@ title: "One Latte Macchiato and Your Morning Is Made"
 meta: "Learn to craft a perfect latte macchiato at home with precise ratios, milk temperature, and espresso timing. Your morning ritual, elevated."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/one-latte-macchiato-and-your-morning-is-.webp"
+image: "/images/one-latte-macchiato-and-your-morning-is-made.webp"
 pubDate: "2026-07-04T12:58:45Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cinnamon Latte Recipe That Will Hook You Instantly"
 meta: "Learn to make a cinnamon latte with a precise hot-steep method that extracts real cinnamon flavor. This recipe will hook you from the first sip."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/cinnamon-latte-recipe-that-will-hook-you.webp"
+image: "/images/cinnamon-latte-recipe-that-will-hook-you-instantly.webp"
 pubDate: "2026-07-12T13:35:46Z"
 ---
 

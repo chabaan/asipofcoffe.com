@@ -3,7 +3,7 @@ title: "My Go-To Sweet Cream Cold Brew Morning Recipe"
 meta: "I make this sweet cream cold brew every morning — here's why this simple ratio and technique beats any coffee shop version."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/my-go-to-sweet-cream-cold-brew-morning-r.webp"
+image: "/images/my-go-to-sweet-cream-cold-brew-morning-recipe.webp"
 pubDate: "2026-06-28T12:31:20Z"
 ---
 

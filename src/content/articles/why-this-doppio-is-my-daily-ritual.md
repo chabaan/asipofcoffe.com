@@ -3,7 +3,7 @@ title: "Why This Doppio Is My Daily Ritual"
 meta: "Discover why this doppio is my daily ritual. A specific ratio, temperature, and technique for a balanced double espresso shot that starts your day right."
 category: "Coffee Living"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/why-this-doppio-is-my-daily-ritual.webp"
+image: "/images/why-this-doppio-is-my-daily-ritual.webp"
 pubDate: "2026-07-10T13:37:48Z"
 ---
 

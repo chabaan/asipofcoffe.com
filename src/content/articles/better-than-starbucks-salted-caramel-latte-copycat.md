@@ -3,7 +3,7 @@ title: "Better-Than-Starbucks Salted Caramel Latte (Copycat)"
 meta: "Learn how to make a better-than-Starbucks salted caramel latte at home with a precise brew ratio, real caramel, and flaky salt. No syrups needed."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/better-than-starbucks-salted-caramel-lat.webp"
+image: "/images/better-than-starbucks-salted-caramel-latte-copycat.webp"
 pubDate: "2026-08-15T21:55:57Z"
 ---
 

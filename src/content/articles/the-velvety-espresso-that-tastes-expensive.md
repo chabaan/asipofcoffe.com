@@ -3,7 +3,7 @@ title: "The Velvety Espresso That Tastes Expensive"
 meta: "Learn how to pull a velvety espresso that tastes expensive at home with precise ratios, temperature, and technique from a seasoned barista."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-velvety-espresso-that-tastes-expensi.webp"
+image: "/images/the-velvety-espresso-that-tastes-expensive.webp"
 pubDate: "2026-07-07T08:06:00Z"
 ---
 

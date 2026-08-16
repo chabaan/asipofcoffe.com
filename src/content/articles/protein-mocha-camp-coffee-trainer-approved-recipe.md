@@ -3,7 +3,7 @@ title: "Protein Mocha Camp Coffee: Trainer-Approved Recipe"
 meta: "Make the protein mocha my trainer swears by at camp. Easy stovetop, campfire, or Blackstone recipe with whey, cocoa, and hot coffee."
 category: "Hot Latte &amp; Espresso Drinks"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/protein-mocha-camp-coffee-trainer-approv.webp"
+image: "/images/protein-mocha-camp-coffee-trainer-approved-recipe.webp"
 pubDate: "2026-08-15T12:41:29Z"
 ---
 

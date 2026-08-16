@@ -3,7 +3,7 @@ title: "3-Ingredient Peppermint Mocha That Tastes Expensive"
 meta: "Make a 3-ingredient peppermint mocha that tastes expensive. Barista technique for balanced chocolate, peppermint, and espresso at home."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/3-ingredient-peppermint-mocha-that-taste.webp"
+image: "/images/3-ingredient-peppermint-mocha-that-tastes-expensive.webp"
 pubDate: "2026-08-14T09:03:55Z"
 ---
 

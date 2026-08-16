@@ -3,7 +3,7 @@ title: "The Mocha Cake That Tastes Like a Coffee-Shop Treat"
 meta: "Learn how to make a mocha cake that tastes like a coffee-shop treat, with precise ratios and a barista's secret for deep chocolate-coffee flavor."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-mocha-cake-that-tastes-like-a-coffee.webp"
+image: "/images/the-mocha-cake-that-tastes-like-a-coffee-shop-treat.webp"
 pubDate: "2026-07-01T12:29:04Z"
 ---
 

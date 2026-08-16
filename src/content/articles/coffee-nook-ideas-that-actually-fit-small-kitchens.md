@@ -3,7 +3,7 @@ title: "Coffee Nook Ideas That Actually Fit Small Kitchens"
 meta: "Smart coffee nook ideas for small kitchens from a drinks developer. Get real setup tips, ratios, and a 5-minute iced latte recipe that works in any space."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/coffee-nook-ideas-that-actually-fit-smal.webp"
+image: "/images/coffee-nook-ideas-that-actually-fit-small-kitchens.webp"
 pubDate: "2026-06-27T13:27:48Z"
 ---
 

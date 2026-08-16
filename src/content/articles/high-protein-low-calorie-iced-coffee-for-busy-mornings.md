@@ -3,7 +3,7 @@ title: "High-Protein Low Calorie Iced Coffee for Busy Mornings"
 meta: "Make a high-protein low calorie iced coffee at home in 5 minutes. A simple method using cold brew concentrate and whey protein isolate for busy mornings."
 category: "Coffee Living"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/high-protein-low-calorie-iced-coffee-for.webp"
+image: "/images/high-protein-low-calorie-iced-coffee-for-busy-mornings.webp"
 pubDate: "2026-07-09T21:43:37Z"
 ---
 

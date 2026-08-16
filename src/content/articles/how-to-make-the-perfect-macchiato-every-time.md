@@ -3,7 +3,7 @@ title: "How to Make the Perfect Macchiato Every Time"
 meta: "Learn how to make the perfect macchiato every time with precise ratios, technique, and texture tips from a seasoned barista."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/how-to-make-the-perfect-macchiato-every-.webp"
+image: "/images/how-to-make-the-perfect-macchiato-every-time.webp"
 pubDate: "2026-06-25T19:34:40Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Brown Sugar Shaken Espresso Copycat That Beats the $7 Version"
 meta: "Stop paying $7 for a brown sugar shaken espresso. This copycat recipe nails the balance with a precise brew ratio and a simple technique trick."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/brown-sugar-shaken-espresso-copycat-that.webp"
+image: "/images/brown-sugar-shaken-espresso-copycat-that-beats-the-7-version.webp"
 pubDate: "2026-06-29T12:28:45Z"
 ---
 

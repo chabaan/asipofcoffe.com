@@ -3,7 +3,7 @@ title: "The Spiced Pumpkin Mocha I Make on Repeat Every Autumn"
 meta: "Learn the exact method for a spiced pumpkin mocha I make on repeat every autumn—real pumpkin, bold espresso, and a precise spice ratio for balanced flavor."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-spiced-pumpkin-mocha-i-make-on-repea.webp"
+image: "/images/the-spiced-pumpkin-mocha-i-make-on-repeat-every-autumn.webp"
 pubDate: "2026-08-11T14:26:35Z"
 ---
 

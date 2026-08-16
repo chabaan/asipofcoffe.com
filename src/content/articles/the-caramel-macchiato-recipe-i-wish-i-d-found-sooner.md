@@ -3,7 +3,7 @@ title: "The Caramel Macchiato Recipe I Wish I'd Found Sooner"
 meta: "A precise caramel macchiato recipe with a unique ratio that balances sweetness and espresso depth. Learn the technique for perfect layers at home."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-caramel-macchiato-recipe-i-wish-i-d-.webp"
+image: "/images/the-caramel-macchiato-recipe-i-wish-i-d-found-sooner.webp"
 pubDate: "2026-06-30T13:11:08Z"
 ---
 

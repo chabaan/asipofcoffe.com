@@ -3,7 +3,7 @@ title: "Foolproof Cafe Cubano Recipe for Coffee Lovers"
 meta: "Learn the foolproof Cafe Cubano method for coffee lovers. Master the espuma with exact ratios and technique for a sweet, bold brew."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/foolproof-cafe-cubano-recipe-for-coffee-.webp"
+image: "/images/foolproof-cafe-cubano-recipe-for-coffee-lovers.webp"
 pubDate: "2026-08-14T13:33:10Z"
 ---
 

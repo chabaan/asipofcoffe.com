@@ -3,7 +3,7 @@ title: "This Mocha Cupcakes Made Me the Family Baker"
 meta: "Learn how these mocha cupcakes made me the family baker with precise espresso technique and a balanced coffee-chocolate ratio."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/this-mocha-cupcakes-made-me-the-family-b.webp"
+image: "/images/this-mocha-cupcakes-made-me-the-family-baker.webp"
 pubDate: "2026-08-12T12:56:13Z"
 ---
 

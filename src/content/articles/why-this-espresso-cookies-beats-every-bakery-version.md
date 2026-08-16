@@ -3,7 +3,7 @@ title: "Why This Espresso Cookies Beats Every Bakery Version"
 meta: "Discover why homemade espresso cookies with precise extraction and dark cocoa outshine any bakery version. Exact ratios and tips inside."
 category: "Baking"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/why-this-espresso-cookies-beats-every-ba.webp"
+image: "/images/why-this-espresso-cookies-beats-every-bakery-version.webp"
 pubDate: "2026-07-13T09:07:07Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The Maple Cold Brew That Made Me a Cold Brew Convert"
 meta: "Discover the exact method and ratio for a maple cold brew that changed how I brew coffee at home. A clear, step-by-step guide."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-maple-cold-brew-that-made-me-a-cold-.webp"
+image: "/images/the-maple-cold-brew-that-made-me-a-cold-brew-convert.webp"
 pubDate: "2026-08-14T21:30:51Z"
 ---
 

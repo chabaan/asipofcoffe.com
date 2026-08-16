@@ -3,7 +3,7 @@ title: "The Americano That Made Me Quit the Drive-Thru"
 meta: "Learn how a properly dialed-in Americano changed my drive-thru habit forever—with exact ratios, brew temps, and technique tips."
 category: "Brewing"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-americano-that-made-me-quit-the-driv.webp"
+image: "/images/the-americano-that-made-me-quit-the-drive-thru.webp"
 pubDate: "2026-07-12T14:20:56Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Exact Pumpkin Cream Cold Brew Recipe (Copycat)"
 meta: "Learn the exact pumpkin cream cold brew recipe to make at home. A copycat iced coffee with real pumpkin, warm spice, and silky cream."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/exact-pumpkin-cream-cold-brew-recipe-cop.webp"
+image: "/images/exact-pumpkin-cream-cold-brew-recipe-copycat.webp"
 pubDate: "2026-08-11T13:53:25Z"
 ---
 

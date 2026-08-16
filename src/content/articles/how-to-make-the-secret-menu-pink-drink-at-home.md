@@ -3,7 +3,7 @@ title: "How to Make the Secret-Menu Pink Drink at Home"
 meta: "Learn how to make the secret-menu pink drink at home with a real coffee twist. My recipe uses cold brew and coconut milk for a creamy, balanced sip."
 category: "Coffee Recipes"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/how-to-make-the-secret-menu-pink-drink-a.webp"
+image: "/images/how-to-make-the-secret-menu-pink-drink-at-home.webp"
 pubDate: "2026-07-02T21:27:53Z"
 ---
 

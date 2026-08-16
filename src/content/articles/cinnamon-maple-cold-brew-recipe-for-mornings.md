@@ -3,7 +3,7 @@ title: "Cinnamon Maple Cold Brew Recipe for Mornings"
 meta: "Make a cinnamon maple cold brew worth getting out of bed for. Learn the exact brew ratio, steeping time, and mixing technique for a balanced, naturally sweet ic"
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/cinnamon-maple-cold-brew-recipe-for-morn.webp"
+image: "/images/cinnamon-maple-cold-brew-recipe-for-mornings.webp"
 pubDate: "2026-07-09T21:57:32Z"
 ---
 

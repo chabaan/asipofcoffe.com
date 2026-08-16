@@ -3,7 +3,7 @@ title: "Small-Space Coffee Bar Organization That Looks Expensive"
 meta: "Learn how to organize a small coffee bar on a budget with pro tips for a sleek, expensive look. Perfect for tight spaces."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/small-space-coffee-bar-organization-that.webp"
+image: "/images/small-space-coffee-bar-organization-that-looks-expensive.webp"
 pubDate: "2026-08-14T20:20:41Z"
 ---
 

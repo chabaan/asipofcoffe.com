@@ -3,7 +3,7 @@ title: "Vanilla Sweet Cream Cold Brew Copycat Recipe"
 meta: "Make a vanilla sweet cream cold brew copycat at home with this easy recipe. Learn the exact ratios and technique for creamy, balanced iced coffee."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/vanilla-sweet-cream-cold-brew-copycat-re.webp"
+image: "/images/vanilla-sweet-cream-cold-brew-copycat-recipe.webp"
 pubDate: "2026-06-29T22:52:46Z"
 ---
 

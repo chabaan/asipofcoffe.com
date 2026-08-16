@@ -3,7 +3,7 @@ title: "The Only White Mocha Recipe You'll Ever Need"
 meta: "Master the perfect white mocha at home with precise ratios, real chocolate technique, and a barista's tip for avoiding that cloying sweetness."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-only-white-mocha-recipe-you-ll-ever-.webp"
+image: "/images/the-only-white-mocha-recipe-you-ll-ever-need.webp"
 pubDate: "2026-06-30T08:07:09Z"
 ---
 

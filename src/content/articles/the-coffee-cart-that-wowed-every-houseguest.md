@@ -3,7 +3,7 @@ title: "The Coffee Cart That Wowed Every Houseguest"
 meta: "Learn how to build a coffee cart that wowed every houseguest with precise technique, brew ratios, and sensory cues."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-coffee-cart-that-wowed-every-housegu.webp"
+image: "/images/the-coffee-cart-that-wowed-every-houseguest.webp"
 pubDate: "2026-07-01T22:00:37Z"
 ---
 

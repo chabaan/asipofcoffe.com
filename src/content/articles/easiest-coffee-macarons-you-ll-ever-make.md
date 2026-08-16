@@ -3,7 +3,7 @@ title: "Easiest Coffee Macarons You'll Ever Make"
 meta: "Learn the easiest coffee macarons recipe with exact ratios and techniques. Perfect for home bakers seeking consistent results."
 category: "Coffee Living"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/easiest-coffee-macarons-you-ll-ever-make.webp"
+image: "/images/easiest-coffee-macarons-you-ll-ever-make.webp"
 pubDate: "2026-08-10T23:23:21Z"
 ---
 

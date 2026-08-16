@@ -3,7 +3,7 @@ title: "The Coffee Bar Decor Idea Everyone's Saving Right Now"
 meta: "Discover the coffee bar decor idea everyone's saving right now: a simple, functional pour-over station with tips on layout, lighting, and storage."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-coffee-bar-decor-idea-everyone-s-sav.webp"
+image: "/images/the-coffee-bar-decor-idea-everyone-s-saving-right-now.webp"
 pubDate: "2026-08-12T13:35:07Z"
 ---
 

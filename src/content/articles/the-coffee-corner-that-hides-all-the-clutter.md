@@ -3,7 +3,7 @@ title: "The Coffee Corner That Hides All the Clutter"
 meta: "Build a clutter-free coffee corner with pro barista tips: exact ratios, workflow hacks, and a 2:1 espresso recipe that keeps your setup tidy and your brew consi"
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-coffee-corner-that-hides-all-the-clu.webp"
+image: "/images/the-coffee-corner-that-hides-all-the-clutter.webp"
 pubDate: "2026-07-08T22:00:53Z"
 ---
 

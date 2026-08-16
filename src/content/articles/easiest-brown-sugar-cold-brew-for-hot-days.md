@@ -3,7 +3,7 @@ title: "Easiest Brown Sugar Cold Brew for Hot Days"
 meta: "Learn the easiest brown sugar cold brew method for hot days. Exact ratios, grind size, and why each step matters for a smooth, sweet iced coffee."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/easiest-brown-sugar-cold-brew-for-hot-da.webp"
+image: "/images/easiest-brown-sugar-cold-brew-for-hot-days.webp"
 pubDate: "2026-07-09T20:01:58Z"
 ---
 

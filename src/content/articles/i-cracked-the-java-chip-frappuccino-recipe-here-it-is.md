@@ -3,7 +3,7 @@ title: "I Cracked the Java Chip Frappuccino Recipe — Here It Is"
 meta: "Learn how to make a Java Chip Frappuccino at home with the exact ratios and technique I use. No fancy equipment needed — just real coffee flavor."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/i-cracked-the-java-chip-frappuccino-reci.webp"
+image: "/images/i-cracked-the-java-chip-frappuccino-recipe-here-it-is.webp"
 pubDate: "2026-07-06T12:03:08Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cinnamon Dolce Latte Copycat Recipe: Skip the Line"
 meta: "Make a cinnamon dolce latte copycat at home with this precise recipe. Exact ratios, milk temperature tips, and the one trick for real flavor."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cinnamon-dolce-latte-copycat-recipe-skip.webp"
+image: "/images/cinnamon-dolce-latte-copycat-recipe-skip-the-line.webp"
 pubDate: "2026-08-15T14:26:55Z"
 ---
 

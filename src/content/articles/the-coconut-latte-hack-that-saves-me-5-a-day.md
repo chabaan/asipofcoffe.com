@@ -3,7 +3,7 @@ title: "The Coconut Latte Hack That Saves Me $5 a Day"
 meta: "Learn a barista's coconut latte hack to save $5 daily: exact ratios, technique, and why it works. Real know-how for a creamy, balanced drink at home."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-coconut-latte-hack-that-saves-me-5-a.webp"
+image: "/images/the-coconut-latte-hack-that-saves-me-5-a-day.webp"
 pubDate: "2026-07-15T19:25:47Z"
 ---
 

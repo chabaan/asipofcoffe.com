@@ -3,7 +3,7 @@ title: "Hazelnut Latte So Good You'll Skip the Drive-Thru"
 meta: "Learn to make a hazelnut latte at home with real espresso technique, perfect milk texture, and a simple homemade syrup. Skip the drive-thru."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/hazelnut-latte-so-good-you-ll-skip-the-d.webp"
+image: "/images/hazelnut-latte-so-good-you-ll-skip-the-drive-thru.webp"
 pubDate: "2026-07-03T12:58:38Z"
 ---
 

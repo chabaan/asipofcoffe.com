@@ -3,7 +3,7 @@ title: "A Coffee Bar Sign So Pretty You'll Want Coffee All Day"
 meta: "Create a coffee bar sign so pretty it invites you to brew all day. Learn placement, style, and a pro brewing tip to match your decor."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/a-coffee-bar-sign-so-pretty-you-ll-want-.webp"
+image: "/images/a-coffee-bar-sign-so-pretty-you-ll-want-coffee-all-day.webp"
 pubDate: "2026-08-10T23:23:36Z"
 ---
 

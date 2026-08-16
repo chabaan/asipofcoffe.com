@@ -3,7 +3,7 @@ title: "Sweet Potato Latte That Smells Like the Holidays"
 meta: "Learn to make a sweet potato latte that smells like the holidays, with a precise ratio for a balanced, cozy drink at home."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/sweet-potato-latte-that-smells-like-the-.webp"
+image: "/images/sweet-potato-latte-that-smells-like-the-holidays.webp"
 pubDate: "2026-07-14T22:00:39Z"
 ---
 

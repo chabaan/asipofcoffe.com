@@ -3,7 +3,7 @@ title: "Coffee Panna Cotta: The 3pm Pick-Me-Up You Need"
 meta: "This coffee panna cotta is the perfect 3pm treat. Learn my exact ratio for a silky, coffee-forward dessert that's simple to make and deeply satisfying."
 category: "Coffee Living"
 author: "AmaraDiaz."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/coffee-panna-cotta-the-3pm-pick-me-up-yo.webp"
+image: "/images/coffee-panna-cotta-the-3pm-pick-me-up-you-need.webp"
 pubDate: "2026-08-14T14:07:48Z"
 ---
 

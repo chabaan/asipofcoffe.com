@@ -3,7 +3,7 @@ title: "Tiramisu That Disappears in Minutes: A Home Brewer's Take"
 meta: "Learn how to make a tiramisu that disappears in minutes with a precise coffee ratio, brew technique, and texture tips from a home-brewing specialist."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/tiramisu-that-disappears-in-minutes-a-ho.webp"
+image: "/images/tiramisu-that-disappears-in-minutes-a-home-brewer-s-take.webp"
 pubDate: "2026-06-16T09:30:00Z"
 ---
 

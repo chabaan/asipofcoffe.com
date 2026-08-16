@@ -3,7 +3,7 @@ title: "Pumpkin Cream Cold Brew: My Exact Ratios for a Coffee-Shop Copy"
 meta: "Skip the coffee-shop run with my exact pumpkin cream cold brew ratios, grind size, and pour technique. A methodical home-brewing guide that saves time and money"
 category: "Beverages"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/pumpkin-cream-cold-brew-my-exact-ratios-.webp"
+image: "/images/pumpkin-cream-cold-brew-my-exact-ratios-for-a-coffee-shop-copy.webp"
 pubDate: "2026-07-13T22:00:04Z"
 ---
 

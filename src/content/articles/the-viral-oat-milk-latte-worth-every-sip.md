@@ -3,7 +3,7 @@ title: "The Viral Oat Milk Latte Worth Every Sip"
 meta: "Learn the exact technique to make the viral oat milk latte at home. Barista tips for perfect texture, balance, and no curdling."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-viral-oat-milk-latte-worth-every-sip.webp"
+image: "/images/the-viral-oat-milk-latte-worth-every-sip.webp"
 pubDate: "2026-08-11T19:00:01Z"
 ---
 

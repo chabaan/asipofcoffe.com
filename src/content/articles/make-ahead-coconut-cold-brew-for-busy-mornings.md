@@ -3,7 +3,7 @@ title: "Make-Ahead Coconut Cold Brew for Busy Mornings"
 meta: "Learn my exact method for make-ahead coconut cold brew. I share ratios, grind size, and a trick to keep the coconut flavor bold and clean."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/make-ahead-coconut-cold-brew-for-busy-mo.webp"
+image: "/images/make-ahead-coconut-cold-brew-for-busy-mornings.webp"
 pubDate: "2026-08-11T08:10:34Z"
 ---
 

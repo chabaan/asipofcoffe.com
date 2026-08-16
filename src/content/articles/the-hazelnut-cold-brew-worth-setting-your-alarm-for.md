@@ -3,7 +3,7 @@ title: "The Hazelnut Cold Brew Worth Setting Your Alarm For"
 meta: "Wake up for this hazelnut cold brew recipe. I share exact ratios, grind size, and steeping time for a smooth, naturally sweet concentrate."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-hazelnut-cold-brew-worth-setting-you.webp"
+image: "/images/the-hazelnut-cold-brew-worth-setting-your-alarm-for.webp"
 pubDate: "2026-08-12T21:37:21Z"
 ---
 

@@ -3,7 +3,7 @@ title: "White Chocolate Mocha Copycat That Fooled My Barista Friend"
 meta: "Make a white chocolate mocha copycat that fools even a barista. Exact ratios, real white chocolate technique, and the steeping trick for balanced sweetness."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/white-chocolate-mocha-copycat-that-foole.webp"
+image: "/images/white-chocolate-mocha-copycat-that-fooled-my-barista-friend.webp"
 pubDate: "2026-06-22T12:53:32Z"
 ---
 

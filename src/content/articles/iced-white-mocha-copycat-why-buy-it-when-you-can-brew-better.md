@@ -3,7 +3,7 @@ title: "Iced White Mocha Copycat: Why Buy It When You Can Brew Better"
 meta: "Learn why this iced white mocha copycat beats the café version. Exact ratios, brewing tips, and the one technique most home baristas miss."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/iced-white-mocha-copycat-why-buy-it-when.webp"
+image: "/images/iced-white-mocha-copycat-why-buy-it-when-you-can-brew-better.webp"
 pubDate: "2026-08-13T13:49:31Z"
 ---
 

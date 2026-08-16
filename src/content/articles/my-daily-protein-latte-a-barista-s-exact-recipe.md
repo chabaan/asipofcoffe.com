@@ -3,7 +3,7 @@ title: "My Daily Protein Latte: A Barista's Exact Recipe"
 meta: "I drink this protein latte every day for balanced energy and great taste. Here's my exact ratio, technique, and the barista trick that makes it work."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/my-daily-protein-latte-a-barista-s-exact.webp"
+image: "/images/my-daily-protein-latte-a-barista-s-exact-recipe.webp"
 pubDate: "2026-06-28T13:59:09Z"
 ---
 

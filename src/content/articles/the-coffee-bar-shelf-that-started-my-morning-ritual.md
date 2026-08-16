@@ -3,7 +3,7 @@ title: "The Coffee Bar Shelf That Started My Morning Ritual"
 meta: "Build a coffee bar shelf that turns your morning brew into a ritual. Get the exact gear, ratios, and shelf layout that works."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-coffee-bar-shelf-that-started-my-mor.webp"
+image: "/images/the-coffee-bar-shelf-that-started-my-morning-ritual.webp"
 pubDate: "2026-07-13T12:19:38Z"
 ---
 

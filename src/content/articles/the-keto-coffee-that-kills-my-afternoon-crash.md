@@ -3,7 +3,7 @@ title: "The Keto Coffee That Kills My Afternoon Crash"
 meta: "Discover the keto coffee blend that stops my 3 PM slump without jitters. A specific ratio and brewing method that balances energy and fat."
 category: "Coffee Recipes"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-keto-coffee-that-kills-my-afternoon-.webp"
+image: "/images/the-keto-coffee-that-kills-my-afternoon-crash.webp"
 pubDate: "2026-07-05T22:00:52Z"
 ---
 

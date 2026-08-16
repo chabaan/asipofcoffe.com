@@ -3,7 +3,7 @@ title: "One-Bowl Coffee Ice Cream With Real Coffee Flavor"
 meta: "Make one-bowl coffee ice cream with real coffee flavor. No custard, no machine. A cold-steep trick keeps the taste bold and clean."
 category: "Coffee Recipes"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/one-bowl-coffee-ice-cream-with-real-coff.webp"
+image: "/images/one-bowl-coffee-ice-cream-with-real-coffee-flavor.webp"
 pubDate: "2026-06-26T12:29:30Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Espresso Truffles Recipe: Pure Coffee Heaven"
 meta: "Learn to make espresso truffles that capture pure coffee heaven with a precise extraction ratio and ganache technique. A barista's guide."
 category: "Coffee Living"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/espresso-truffles-recipe-pure-coffee-hea.webp"
+image: "/images/espresso-truffles-recipe-pure-coffee-heaven.webp"
 pubDate: "2026-08-16T13:18:43Z"
 ---
 

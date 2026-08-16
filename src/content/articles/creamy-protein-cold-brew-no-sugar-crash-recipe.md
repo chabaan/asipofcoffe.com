@@ -3,7 +3,7 @@ title: "Creamy Protein Cold Brew No Sugar Crash Recipe"
 meta: "Make a creamy protein cold brew with no sugar crash. Henrik Sorensen shares exact ratios, grind size, and technique for a smooth, energy-stable coffee."
 category: "Coffee Recipes"
 author: "HenrikSorensen ."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/creamy-protein-cold-brew-no-sugar-crash-.webp"
+image: "/images/creamy-protein-cold-brew-no-sugar-crash-recipe.webp"
 pubDate: "2026-08-13T07:39:20Z"
 ---
 

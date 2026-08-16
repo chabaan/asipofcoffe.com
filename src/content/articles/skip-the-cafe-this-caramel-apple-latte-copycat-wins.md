@@ -3,7 +3,7 @@ title: "Skip the Cafe — This Caramel Apple Latte Copycat Wins"
 meta: "Make a caramel apple latte at home that beats the cafe version. Exact ratios, real apple flavor, and no artificial syrup."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/skip-the-cafe-this-caramel-apple-latte-c.webp"
+image: "/images/skip-the-cafe-this-caramel-apple-latte-copycat-wins.webp"
 pubDate: "2026-06-29T13:16:16Z"
 ---
 

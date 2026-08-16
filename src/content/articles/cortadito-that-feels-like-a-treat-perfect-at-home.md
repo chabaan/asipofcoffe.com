@@ -3,7 +3,7 @@ title: "Cortadito That Feels Like a Treat: Perfect at Home"
 meta: "Learn how to craft a cortadito that feels like a treat, with precise ratios, temperature tips, and the one mistake to avoid for a silky, balanced cup."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cortadito-that-feels-like-a-treat-perfec.webp"
+image: "/images/cortadito-that-feels-like-a-treat-perfect-at-home.webp"
 pubDate: "2026-08-15T22:00:46Z"
 ---
 

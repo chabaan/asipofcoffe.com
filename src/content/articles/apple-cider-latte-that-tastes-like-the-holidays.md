@@ -3,7 +3,7 @@ title: "Apple Cider Latte That Tastes Like the Holidays"
 meta: "Learn how to make an apple cider latte that tastes like the holidays with a precise ratio and technique for a balanced, cozy drink."
 category: "Coffee Recipes"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/apple-cider-latte-that-tastes-like-the-h.webp"
+image: "/images/apple-cider-latte-that-tastes-like-the-holidays.webp"
 pubDate: "2026-06-23T07:02:23Z"
 ---
 

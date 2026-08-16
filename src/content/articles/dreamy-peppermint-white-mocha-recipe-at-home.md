@@ -3,7 +3,7 @@ title: "Dreamy Peppermint White Mocha Recipe at Home"
 meta: "Learn to craft a dreamy peppermint white mocha with precise ratios and technique. A cozy café drink made right in your kitchen."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/dreamy-peppermint-white-mocha-recipe-at-.webp"
+image: "/images/dreamy-peppermint-white-mocha-recipe-at-home.webp"
 pubDate: "2026-08-15T19:48:05Z"
 ---
 

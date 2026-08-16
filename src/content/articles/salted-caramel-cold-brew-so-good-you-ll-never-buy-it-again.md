@@ -3,7 +3,7 @@ title: "Salted Caramel Cold Brew So Good You'll Never Buy It Again"
 meta: "Make salted caramel cold brew at home with a pro technique. No fancy gear needed—just coffee, water, and a simple caramel that actually works."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/salted-caramel-cold-brew-so-good-you-ll-.webp"
+image: "/images/salted-caramel-cold-brew-so-good-you-ll-never-buy-it-again.webp"
 pubDate: "2026-07-05T22:00:38Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Guilt-Free Bulletproof Coffee Recipe"
 meta: "Make guilt-free bulletproof coffee with a cleaner fat profile and lower saturated fat. My go-to recipe with the exact ratio and technique."
 category: "Coffee Living"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/guilt-free-bulletproof-coffee-recipe.webp"
+image: "/images/guilt-free-bulletproof-coffee-recipe.webp"
 pubDate: "2026-07-02T14:25:12Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cafe con Leche So Smooth You'll Make Two: My Go-To Method"
 meta: "Learn how to make a cafe con leche so smooth you'll make two. I share my exact brew ratio, milk temperature, and technique for a velvety cup every time."
 category: "Coffee Recipes"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/cafe-con-leche-so-smooth-you-ll-make-two.webp"
+image: "/images/cafe-con-leche-so-smooth-you-ll-make-two-my-go-to-method.webp"
 pubDate: "2026-08-12T07:37:33Z"
 ---
 

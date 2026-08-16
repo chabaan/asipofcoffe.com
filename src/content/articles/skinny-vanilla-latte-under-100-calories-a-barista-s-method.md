@@ -3,7 +3,7 @@ title: "Skinny Vanilla Latte Under 100 Calories: A Barista's Method"
 meta: "Learn how to make a skinny vanilla latte under 100 calories with precise technique. Expert tips on ratio, milk, and syrup for a balanced, guilt-free drink."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/skinny-vanilla-latte-under-100-calories-.webp"
+image: "/images/skinny-vanilla-latte-under-100-calories-a-barista-s-method.webp"
 pubDate: "2026-06-23T11:53:43Z"
 ---
 

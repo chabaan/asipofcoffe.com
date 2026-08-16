@@ -3,7 +3,7 @@ title: "Pumpkin Chai Latte Recipe: Barista's Exact Method"
 meta: "Get the pumpkin chai latte recipe everyone wants, with a barista's exact ratio and technique for a perfectly balanced, spiced drink at home."
 category: "Beverages"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/pumpkin-chai-latte-recipe-barista-s-exac.webp"
+image: "/images/pumpkin-chai-latte-recipe-barista-s-exact-method.webp"
 pubDate: "2026-07-03T07:46:22Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Why Everyone's Obsessed With This Caramel Latte"
 meta: "Learn why this caramel latte has become a favorite and how to dial in the perfect balance of espresso, milk, and caramel at home."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/why-everyone-s-obsessed-with-this-carame.webp"
+image: "/images/why-everyone-s-obsessed-with-this-caramel-latte.webp"
 pubDate: "2026-07-07T07:58:45Z"
 ---
 

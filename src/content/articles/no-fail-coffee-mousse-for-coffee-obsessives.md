@@ -3,7 +3,7 @@ title: "No-Fail Coffee Mousse for Coffee Obsessives"
 meta: "Make a no-fail coffee mousse with real espresso and a precise 3:1 ratio. This creamy, set dessert delivers pure coffee flavor for true obsessives."
 category: "Coffee Living"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/no-fail-coffee-mousse-for-coffee-obsessi.webp"
+image: "/images/no-fail-coffee-mousse-for-coffee-obsessives.webp"
 pubDate: "2026-07-10T14:15:35Z"
 ---
 

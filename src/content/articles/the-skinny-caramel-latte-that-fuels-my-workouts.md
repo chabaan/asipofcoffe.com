@@ -3,7 +3,7 @@ title: "The Skinny Caramel Latte That Fuels My Workouts"
 meta: "Make a skinny caramel latte that fuels workouts with real technique. I share my exact ratio, brewing method, and a tip you won't find on other sites."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/08/the-skinny-caramel-latte-that-fuels-my-w.webp"
+image: "/images/the-skinny-caramel-latte-that-fuels-my-workouts.webp"
 pubDate: "2026-08-11T12:53:01Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Pecan Pie Latte Recipe: Barista Tips for a Showstopper"
 meta: "Make a pecan pie latte that steals the show. Barista tips on balancing sweet, nutty syrup with espresso for a festive, balanced drink."
 category: "Coffee Recipes"
 author: "LucasMoreau."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/pecan-pie-latte-recipe-barista-tips-for-1-1.webp"
+image: "/images/pecan-pie-latte-recipe-barista-tips-for-a-showstopper.webp"
 pubDate: "2026-07-12T09:29:06Z"
 ---
 

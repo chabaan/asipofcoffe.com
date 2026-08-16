@@ -3,7 +3,7 @@ title: "How to Turn a Corner Into a Dreamy Kitchen Coffee Bar"
 meta: "Learn how to turn a corner into a dreamy kitchen coffee bar with practical tips on layout, gear, and brewing ratios for a warm, efficient space."
 category: "Coffee Living"
 author: "SofiaBianchi."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/how-to-turn-a-corner-into-a-dreamy-kitch.webp"
+image: "/images/how-to-turn-a-corner-into-a-dreamy-kitchen-coffee-bar.webp"
 pubDate: "2026-07-11T09:00:53Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Cinnamon Cold Brew Beats Bottled: Easy Recipe"
 meta: "Learn why homemade cinnamon cold brew beats the bottled stuff with a simple technique and a specific ratio for rich, smooth flavor."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/cinnamon-cold-brew-beats-bottled-easy-re.webp"
+image: "/images/cinnamon-cold-brew-beats-bottled-easy-recipe.webp"
 pubDate: "2026-07-11T12:14:27Z"
 ---
 

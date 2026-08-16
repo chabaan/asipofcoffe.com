@@ -3,7 +3,7 @@ title: "Better Caramel Frappuccino at Home (No Machine Needed)"
 meta: "Skip the drive-through. This caramel frappuccino dupe uses a specific ice-to-coffee ratio for a creamier, richer result than the original. Recipe inside."
 category: "Coffee Recipes"
 author: "PriyaNair."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/better-caramel-frappuccino-at-home-no-ma.webp"
+image: "/images/better-caramel-frappuccino-at-home-no-machine-needed.webp"
 pubDate: "2026-07-09T21:53:49Z"
 ---
 

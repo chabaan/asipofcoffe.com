@@ -3,7 +3,7 @@ title: "The Affogato Dessert That Wowed My Dinner Guests"
 meta: "Learn the technique for a perfect affogato dessert that wowed my dinner guests, with exact espresso ratios and gelato tips."
 category: "Coffee Recipes"
 author: "HenrikSorensen."
-image: "https://asipofcoffe.com/wp-content/uploads/2026/06/the-affogato-dessert-that-wowed-my-dinne.webp"
+image: "/images/the-affogato-dessert-that-wowed-my-dinner-guests.webp"
 pubDate: "2026-07-08T14:23:54Z"
 ---
 
