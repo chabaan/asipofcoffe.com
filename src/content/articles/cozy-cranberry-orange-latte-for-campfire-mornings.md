@@ -1,7 +1,7 @@
 ---
 title: "Cozy Cranberry Orange Latte for Campfire Mornings"
 meta: "Make a cozy cranberry orange latte at camp with this easy recipe. Warm spices, real cranberries, and a method that works on a camp stove or fire."
-category: "Uncategorized"
+category: "Hot Latte & Espresso Drinks"
 author: "PriyaNair."
 image: "/images/cozy-cranberry-orange-latte-for-campfire-mornings.webp"
 pubDate: "2026-08-21T13:51:01Z"
