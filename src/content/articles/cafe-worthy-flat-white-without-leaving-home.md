@@ -3,7 +3,8 @@ title: "Cafe-Worthy Flat White Without Leaving Home"
 meta: "Learn the exact technique, ratio, and microfoam method to pull a cafe-worthy flat white at home. One specific tip you won't find elsewhere."
 category: "Coffee Recipes"
 author: "Lucas Moreau"
-image: "/images/cafe-worthy-flat-white-without-leaving-home.webp"
+pubDate: "2026-06-18T12:33:55Z"
+image: "https://cdn.midjourney.com/7a91f6e4-8469-4163-baca-5f546522d0d0/0_0.png"
 ---
 
 <p>The first time I pulled a flat white at home, the crema was thin, the milk was bubbly, and the taste fell flat. It took me weeks of small adjustments to get it right. Now, I want to share what actually works — no shortcuts, just technique.</p>
