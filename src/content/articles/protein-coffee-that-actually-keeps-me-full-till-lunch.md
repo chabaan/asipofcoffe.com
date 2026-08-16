@@ -3,7 +3,7 @@ title: "Protein Coffee That Actually Keeps Me Full Till Lunch"
 meta: "Learn how to make protein coffee that keeps you full till lunch. Exact ratios, brew tips, and the one trick most recipes miss."
 category: "Coffee Living"
 author: "Amara Diaz"
-image: "https://cdn.midjourney.com/9289ea85-326a-4c23-8d23-15d711765e84/0_0.png"
+image: "/images/protein-coffee-that-actually-keeps-me-full-till-lunch.webp"
 ---
 
 <p>The first time I tried protein coffee, it was a disaster. Chalky clumps floating in lukewarm brew. Gritty. Separated. Not the creamy, filling drink I wanted. I almost gave up. But after testing different ratios, temperatures, and blending methods, I landed on a version that actually works. It keeps me full past noon without that heavy, oily feeling. Here's the method — and the one trick most recipes skip.</p>

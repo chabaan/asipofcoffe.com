@@ -3,7 +3,7 @@ title: "Easiest Coffee Macarons You'll Ever Make"
 meta: "Learn the easiest coffee macarons recipe with exact ratios and techniques. Perfect for home bakers seeking consistent results."
 category: "Coffee Living"
 author: "Henrik Sorensen"
-image: "https://cdn.midjourney.com/ba7e75a4-efb8-4960-ad06-8eb6731bc511/0_0.png"
+image: "/images/easiest-coffee-macarons-youll-ever-make.webp"
 ---
 
 <p>The first time I saw a macaron with a perfect foot—that ruffled edge at the base—I knew I had to replicate it. But coffee macarons? They seemed like a double challenge: the finicky French cookie plus the risk of throwing off the delicate balance with liquid. After dozens of batches, I found a method that works every time, using a simple trick that sidesteps common pitfalls.</p>

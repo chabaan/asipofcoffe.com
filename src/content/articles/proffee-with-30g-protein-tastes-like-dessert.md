@@ -3,7 +3,7 @@ title: "Proffee With 30g Protein (Tastes Like Dessert)"
 meta: "Learn how to make proffee with 30g protein that tastes like dessert. A barista's guide to perfect extraction, ratio, and texture."
 category: "Coffee Recipes"
 author: "Lucas Moreau"
-image: "https://cdn.midjourney.com/208e7f84-510f-4b94-bb7c-9828c37c6dac/0_2.png"
+image: "/images/proffee-with-30g-protein-tastes-like-dessert.webp"
 ---
 
 <p>The first time I made proffee with 30g protein, I was skeptical. Coffee and protein powder? It sounded like a gym hack, not a drink I’d crave. But the moment I blended a double shot of espresso into a chilled vanilla protein shake, something clicked. The crema kissed the foam, and the first sip was creamy, sweet, and deeply satisfying—like a melted coffee ice cream float, minus the sugar crash. This isn’t a clunky health drink. It’s a dessert you can drink for breakfast. Here’s how to get it right.</p>

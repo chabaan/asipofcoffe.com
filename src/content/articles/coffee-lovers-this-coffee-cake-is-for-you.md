@@ -3,7 +3,7 @@ title: "Coffee Lovers, This Coffee Cake Is for You"
 meta: "A coffee cake recipe that actually tastes like coffee. Tips on grind size, bloom time, and why whole bean matters."
 category: "Coffee Living"
 author: "Amara Diaz"
-image: "https://cdn.midjourney.com/6b91b298-f08d-4fc8-abd0-001feddcc4bd/0_1.png"
+image: "/images/coffee-lovers-this-coffee-cake-is-for-you.webp"
 ---
 
 <p>I pulled a shot of espresso this morning, and the crema was gorgeous—deep caramel, almost mahogany. It got me thinking about how coffee flavor can get lost in baking. Too often, coffee cakes taste like sweet bread with a whisper of something dark. Not this one.</p>

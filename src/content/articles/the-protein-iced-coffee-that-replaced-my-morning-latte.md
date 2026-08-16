@@ -3,7 +3,7 @@ title: "The Protein Iced Coffee That Replaced My Morning Latte"
 meta: "Discover the protein iced coffee that replaced my morning latte—a barista-tested method for creamy, balanced, caffeine-rich coffee without the sugar crash."
 category: "Coffee Living"
 author: "Lucas Moreau"
-image: "https://cdn.midjourney.com/422bea4f-94db-427a-afb3-f83708a7e9c9/0_0.png"
+image: "/images/the-protein-iced-coffee-that-replaced-my-morning-latte.webp"
 ---
 
 <p>The first time I tried mixing protein powder into my morning coffee, the result was a clumpy, gritty mess that tasted like chalk. I almost gave up. But as someone who spends every day dialing in espresso for balance and texture, I knew the problem wasn't the ingredients—it was the method. After weeks of testing, I landed on a protein iced coffee that's creamy, balanced, and genuinely satisfying. It replaces my latte most mornings now, especially after a workout or when I need sustained energy without the sugar crash.</p>

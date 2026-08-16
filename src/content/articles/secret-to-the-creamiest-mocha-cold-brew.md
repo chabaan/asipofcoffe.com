@@ -3,7 +3,7 @@ title: "Secret to the Creamiest Mocha Cold Brew"
 meta: "Learn the secret to the creamiest mocha cold brew at home. A simple technique with cocoa powder and milk for a rich, velvety texture."
 category: "Coffee Recipes"
 author: "Priya Nair"
-image: "https://cdn.midjourney.com/a3c7beee-0682-4241-924c-527ad44790c4/0_0.png"
+image: "/images/secret-to-the-creamiest-mocha-cold-brew.webp"
 ---
 
 <p>There’s something about a mocha cold brew that feels like a treat—but so often, the homemade version falls flat. The chocolate sinks to the bottom, the coffee tastes thin, and the creaminess you crave never quite shows up. I’ve been there. After a lot of trial and error, I found that the secret isn’t a fancy ingredient or a complicated gadget. It’s all in how you handle the cocoa and the milk.</p>

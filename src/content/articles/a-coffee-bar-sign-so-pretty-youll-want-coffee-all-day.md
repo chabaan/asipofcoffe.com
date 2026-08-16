@@ -3,7 +3,7 @@ title: "A Coffee Bar Sign So Pretty You'll Want Coffee All Day"
 meta: "Create a coffee bar sign so pretty it invites you to brew all day. Learn placement, style, and a pro brewing tip to match your decor."
 category: "Coffee Living"
 author: "Sofia Bianchi"
-image: "https://cdn.midjourney.com/4bee3d62-2726-4e05-a675-c8fc6bbf0616/0_0.png"
+image: "/images/a-coffee-bar-sign-so-pretty-youll-want-coffee-all-day.webp"
 ---
 
 <p>There is a quiet magic in a well-placed sign. The right one catches your eye as you walk into the kitchen, a gentle nudge that says <em>this space is for you</em>. A coffee bar sign does more than decorate — it sets the mood. It turns a corner of your counter into a ritual. And when it is pretty enough, it makes you want to brew coffee all day long.</p>
