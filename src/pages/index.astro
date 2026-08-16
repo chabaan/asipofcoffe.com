@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+---
+<Base title="A Sip of Coffee — Home">
+	<main>
+		<h2 class="section-title">Latest Articles ({articles.length})</h2>
+		<div class="grid">
+			{articles.map((a) => (
+				<div class="card">
+					<a href={`/articles/${a.id}/`}>
+						<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						<div class="body">
+							<div class="cat">{a.data.category}</div>
+							<h3>{a.data.title}</h3>
+							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+						</div>
+					</a>
+				</div>
+			))}
+		</div>
+	</main>
+</Base>
