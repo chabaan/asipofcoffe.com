@@ -8,10 +8,14 @@ const articles = await getCollection('articles');
 	<main>
 		<h2 class="section-title">Latest Articles ({articles.length})</h2>
 		<div class="grid">
-			{articles.map((a) => (
+			{articles.map((a, i) => (
 				<div class="card">
 					<a href={`/articles/${a.id}/`}>
-						<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						{i === 0 ? (
+							<img class="thumb" src={a.data.image} alt={a.data.title} fetchpriority="high" onerror="this.style.display='none'" />
+						) : (
+							<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						)}
 						<div class="body">
 							<div class="cat">{a.data.category}</div>
 							<h3>{a.data.title}</h3>
