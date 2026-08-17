@@ -2,7 +2,7 @@
 title: "Coffee Nook Ideas That Actually Fit Small Kitchens"
 meta: "Smart coffee nook ideas for small kitchens from a drinks developer. Get real setup tips, ratios, and a 5-minute iced latte recipe that works in any space."
 category: "Coffee Living"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/coffee-nook-ideas-that-actually-fit-small-kitchens.webp"
 pubDate: "2026-06-27T13:27:48Z"
 recipe: "{\"title\": \"Quick Iced Latte for Small Spaces\", \"ingredients\": [\"1 cup strong brewed coffee (cooled)\", \"1/2 cup whole milk (or oat milk)\", \"1 tablespoon simple syrup (optional)\", \"Ice cubes\"], \"instructions\": [\"Brew 1 cup of coffee using a 1:15 coffee-to-water ratio (about 2 tablespoons ground coffee per cup of water). Let it cool to room temperature, about 10 minutes.\", \"Fill a mason jar or tall glass with ice cubes.\", \"Pour the cooled coffee over the ice.\", \"Add the milk slowly, stirring gently with a spoon to create a layered effect.\", \"Sweeten with simple syrup if desired. Stir and enjoy immediately.\"], \"equipment\": [\"Mason jar or tall glass\", \"spoon\", \"measuring cup\", \"ice cube tray\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"90\"}"
