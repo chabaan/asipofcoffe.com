@@ -2,7 +2,7 @@
 title: "The Skinny Caramel Latte That Fuels My Workouts"
 meta: "Make a skinny caramel latte that fuels workouts with real technique. I share my exact ratio, brewing method, and a tip you won't find on other sites."
 category: "Coffee Recipes"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/the-skinny-caramel-latte-that-fuels-my-workouts.webp"
 pubDate: "2026-08-11T12:53:01Z"
 recipe: "{\"title\": \"Workout Fuel Skinny Caramel Latte\", \"ingredients\": [\"6 oz cold brew concentrate (brewed at 1:8 ratio, coarse grind, 12-hour steep)\", \"2 oz unsweetened almond milk\", \"1/2 tsp sugar-free caramel syrup (or 1 medjool date, blended with 1 tbsp hot water)\", \"Ice cubes\", \"Optional: pinch of sea salt\"], \"instructions\": [\"Brew cold brew concentrate at a 1:8 coffee-to-water ratio with a coarse grind, steeped 12 hours at room temperature. Strain through a fine-mesh strainer.\", \"In a glass, combine cold brew concentrate and almond milk. Stir gently.\", \"Add sugar-free caramel syrup (or date paste) and stir until fully dissolved.\", \"Fill the glass with ice cubes. Stir once more.\", \"Optional: sprinkle a tiny pinch of sea salt on top to enhance sweetness without extra calories.\", \"Drink within 30 minutes for best flavor and caffeine effect.\"], \"equipment\": [\"mason jar with lid\", \"fine-mesh strainer\", \"measuring spoons\", \"glass\", \"straw\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"85\"}"
