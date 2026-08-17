@@ -2,7 +2,7 @@
 title: "The Coffee Smoothie That Keeps Me Full Till Lunch"
 meta: "Try this easy coffee smoothie recipe with a 2:1 banana-to-oat ratio that keeps me full till lunch. Learn the technique for a creamy, balanced drink."
 category: "Coffee Living"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/the-coffee-smoothie-that-keeps-me-full-till-lunch.webp"
 pubDate: "2026-08-21T12:06:36Z"
 recipe: "{\"title\": \"Banana Oat Coffee Smoothie\", \"ingredients\": [\"1 medium ripe banana (about 100g, 2 tablespoons rolled oats (20g), 1/2 cup strong brewed coffee, cooled (120ml), 1/2 cup milk of choice (120ml), 1 teaspoon maple syrup or honey (optional), 1/4 teaspoon vanilla extract (optional), 3-4 ice cubes)\"], \"instructions\": [\"Brew 1/2 cup of strong coffee using your preferred method—I use a 1:15 ratio with a medium grind. Let it cool to room temperature, about 10 minutes. 2. Add the banana, oats, cooled coffee, milk, sweetener (if using), vanilla (if using), and ice cubes to the blender. 3. Blend on high for 30-45 seconds until completely smooth. The oats should be fully broken down—no gritty bits remain. 4. Pour into a tall glass and serve immediately. The texture should be thick enough to coat the back of a spoon, but still pourable.\"], \"equipment\": [\"blender\", \"measuring spoons\", \"mug or glass\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"295\"}"
