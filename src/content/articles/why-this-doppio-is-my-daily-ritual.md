@@ -2,7 +2,7 @@
 title: "Why This Doppio Is My Daily Ritual"
 meta: "Discover why this doppio is my daily ritual. A specific ratio, temperature, and technique for a balanced double espresso shot that starts your day right."
 category: "Coffee Living"
-author: "HenrikSorensen."
+author: "Henrik Sorensen"
 image: "/images/why-this-doppio-is-my-daily-ritual.webp"
 pubDate: "2026-07-10T13:37:48Z"
 recipe: "{\"title\": \"Balanced Doppio\", \"ingredients\": [\"18 grams fresh coffee beans (medium roast)\", \"36 grams filtered water\"], \"instructions\": [\"Weigh out 18 grams of whole coffee beans. Grind them to a fine consistency, like table salt. The grind should feel slightly powdery but not clumping.\", \"Distribute the grounds evenly in the portafilter. Level them with your finger, then tamp firmly with about 30 pounds of pressure. The surface should be level and smooth.\", \"Preheat your espresso machine and portafilter. Run a blank shot of water through the group head to stabilize the temperature. Aim for 93°C at the puck.\", \"Lock in the portafilter and place a warm shot glass under the spout. Start the extraction immediately. The first drops should appear within 5 to 7 seconds.\", \"Watch the stream: it should be a steady, thin flow like warm honey, with a golden-brown crema forming. Stop the shot when you reach 36 grams of liquid. This should take about 28 seconds total.\", \"Swirl the shot gently to blend the crema. Drink immediately. The flavor should be balanced—sweet, with a slight acidity and a smooth finish.\"], \"equipment\": [\"espresso machine\", \"burr grinder\", \"tamper\", \"scale\", \"shot glass\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"1\", \"total_time\": \"6\", \"calories\": \"5\"}"
