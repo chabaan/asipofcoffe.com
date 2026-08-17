@@ -2,7 +2,7 @@
 title: "The Velvety Espresso That Tastes Expensive"
 meta: "Learn how to pull a velvety espresso that tastes expensive at home with precise ratios, temperature, and technique from a seasoned barista."
 category: "Coffee Recipes"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/the-velvety-espresso-that-tastes-expensive.webp"
 pubDate: "2026-07-07T08:06:00Z"
 recipe: "{\"title\": \"Velvety Espresso Shot\", \"ingredients\": [\"18 grams coffee beans (fresh, medium-dark roast)\", \"30-40 grams water (filtered, heated to 93-96°C)\", \"Optional: 150 ml milk (whole or oat, for latte)\"], \"instructions\": [\"Weigh 18 grams of coffee beans and grind to a fine, powdery consistency—finer than table salt but not clumping.\", \"Distribute grounds evenly in the portafilter and tamp with firm, level pressure (about 30 pounds).\", \"Preheat your espresso cup and machine group head by running a blank shot.\", \"Lock the portafilter in and start the shot immediately. Aim for 30-40 grams of liquid in 25-30 seconds.\", \"Watch the flow: it should start as a few thick drops, then a steady, honey-like stream. Stop when the stream turns pale or blondes.\", \"For a latte, steam milk in a pitcher until it reaches 60-65°C, creating a smooth microfoam. Gently swirl the milk and pour over the espresso.\"], \"equipment\": [\"Espresso machine\", \"coffee grinder (burr)\", \"tamper\", \"scale\", \"espresso cup\", \"thermometer\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"5\"}"
