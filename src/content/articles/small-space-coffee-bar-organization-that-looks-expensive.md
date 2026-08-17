@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "SofiaBianchi."
 image: "/images/small-space-coffee-bar-organization-that-looks-expensive.webp"
 pubDate: "2026-08-14T20:20:41Z"
+recipe: "{\"title\": \"No recipe applicable\", \"ingredients\": [\"coffee beans (sugar, mugs, spoons, napkins)\"], \"instructions\": [\"Clear your counter. 2. Group items by use. 3. Store beans in airtight containers. 4. Use a tray for daily items. 5. Hang mugs under a shelf. 6. Keep gadgets in a drawer or basket. 7. Add a small plant for visual warmth.\"], \"equipment\": [\"counter space\", \"containers\", \"trays\", \"hooks\", \"shelves\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": null}"
 ---
 
 <p>The morning light catches the edge of a white ceramic canister. I reach for it, twist off the lid, and the scent of freshly ground coffee fills my tiny kitchen. My coffee bar is just a two-foot stretch of counter, yet it feels like a private café. The secret is not money. It's intention.</p>
