@@ -2,7 +2,7 @@
 title: "Cortadito That Feels Like a Treat: Perfect at Home"
 meta: "Learn how to craft a cortadito that feels like a treat, with precise ratios, temperature tips, and the one mistake to avoid for a silky, balanced cup."
 category: "Coffee Recipes"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/cortadito-that-feels-like-a-treat-perfect-at-home.webp"
 pubDate: "2026-08-15T22:00:46Z"
 recipe: "{\"title\": \"Classic Cortadito\", \"ingredients\": [\"1 double shot espresso (18g coffee, 36g yield)\", \"1 teaspoon demerara sugar (or turbinado)\", \"60 ml whole milk (or oat milk for dairy-free)\", \"Pinch of salt (optional, to cut bitterness)\"], \"instructions\": [\"Pull a double espresso shot into a demitasse cup, aiming for 36g yield in 25-30 seconds.\", \"While espresso brews, add the demerara sugar to the hot espresso and stir vigorously until fully dissolved—this creates the signature sweet base.\", \"Steam the milk to 60-65°C (140-150°F) with fine microfoam, avoiding large bubbles. For moka pot users, heat milk gently in a saucepan and whisk until frothy.\", \"Pour the steamed milk into the sweetened espresso, holding back the foam with a spoon, then top with a thin layer of foam.\", \"Serve immediately in a pre-warmed demitasse cup. The ratio is roughly 1:1 espresso to milk.\"], \"equipment\": [\"Espresso machine or moka pot\", \"milk pitcher\", \"steam wand or small saucepan\", \"thermometer\", \"demitasse cup\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"5\", \"total_time\": \"7\", \"calories\": \"45\"}"
