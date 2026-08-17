@@ -2,7 +2,7 @@
 title: "Brown Sugar Shaken Espresso Copycat That Beats the $7 Version"
 meta: "Stop paying $7 for a brown sugar shaken espresso. This copycat recipe nails the balance with a precise brew ratio and a simple technique trick."
 category: "Coffee Recipes"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/brown-sugar-shaken-espresso-copycat-that-beats-the-7-version.webp"
 pubDate: "2026-06-29T12:28:45Z"
 recipe: "{\"title\": \"Brown Sugar Shaken Espresso Copycat\", \"ingredients\": [\"2 shots espresso (about 36-40g liquid total, 2 teaspoons brown sugar (or 1 tablespoon brown sugar syrup), 3-4 ice cubes, 6-8 ounces whole milk or oat milk, pinch of salt (optional))\"], \"instructions\": [\"Brew 2 shots of espresso directly over 2 teaspoons of brown sugar in a heatproof cup. Stir immediately to dissolve. Let cool for 1 minute. 2. Fill a cocktail shaker or mason jar with 3-4 large ice cubes. 3. Pour the sweetened espresso over the ice. 4. Seal the shaker and shake vigorously for 10 seconds — you want a visible froth and a slight chill, not dilution. 5. Fill a serving glass with fresh ice. 6. Strain the shaken espresso into the glass. 7. Top with cold milk of your choice — pour slowly to preserve the foam layer. 8. Optional: add a tiny pinch of salt to the espresso before shaking to cut bitterness and deepen sweetness.\"], \"equipment\": [\"Espresso machine or moka pot\", \"cocktail shaker or mason jar\", \"ice cube tray\", \"measuring spoon\", \"kitchen scale\", \"glass\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"130\"}"
