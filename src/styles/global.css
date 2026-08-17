@@ -29,6 +29,10 @@ h2.section-title{text-align:center;color:var(--coffee);font-size:1.4rem;margin-b
 .card .cat{color:#7a4a1f;font-size:.72rem;text-transform:uppercase;font-weight:700;letter-spacing:.4px;}
 .card h3{font-size:1.05rem;margin:8px 0 6px;line-height:1.3;}
 .card p{font-size:.85rem;color:#666;margin:0;}
+.card .card-meta{display:flex;align-items:center;gap:8px;margin-top:14px;padding-top:12px;border-top:1px solid #f0e9df;}
+.card .avatar{width:24px;height:24px;border-radius:50%;background:var(--coffee);color:#fff;display:flex;align-items:center;justify-content:center;font-size:.75rem;font-weight:700;flex-shrink:0;}
+.card .author-name{font-size:.8rem;color:#555;font-weight:600;}
+.card .card-meta time{font-size:.78rem;color:#999;margin-left:auto;}
 
 .pagination{display:flex;justify-content:center;align-items:center;gap:20px;margin-top:40px;padding-top:24px;border-top:1px solid var(--border);}
 .pagination .page-link{color:var(--coffee);text-decoration:none;font-weight:600;font-size:.9rem;padding:10px 16px;border:1px solid var(--border);border-radius:6px;transition:.15s;}
