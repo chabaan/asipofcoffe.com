@@ -2,7 +2,7 @@
 title: "The Caramel Macchiato Recipe I Wish I'd Found Sooner"
 meta: "A precise caramel macchiato recipe with a unique ratio that balances sweetness and espresso depth. Learn the technique for perfect layers at home."
 category: "Coffee Living"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/the-caramel-macchiato-recipe-i-wish-id-found-sooner.webp"
 pubDate: "2026-06-30T13:11:08Z"
 recipe: "{\"title\": \"Layered Caramel Macchiato\", \"ingredients\": [\"1 shot (1 oz freshly pulled espresso)\", \"6 oz whole milk\", \"1 tbsp vanilla syrup (homemade: 1:1 sugar to water, vanilla extract)\", \"1 tbsp caramel sauce (thin consistency, for drizzle)\"], \"instructions\": [\"Brew a single shot of espresso (1 oz) using a 1:2 coffee-to-water ratio, aiming for 25-30 seconds extraction. Set aside.\", \"Pour 6 oz cold whole milk into a steam pitcher. Purge the steam wand briefly, then submerge the tip just below the milk surface. Steam until the milk reaches 150-155°F (65-68°C), creating a microfoam with 1 cm of velvety foam on top. Tap the pitcher to break large bubbles.\", \"Pour vanilla syrup into the bottom of an 8-ounce glass or mug.\", \"Gently pour the steamed milk over the syrup, holding back the foam with a spoon. Fill the glass about ¾ full.\", \"Slowly pour the espresso over the back of a spoon held just above the milk surface. The spoon diffuses the flow, creating a distinct dark layer.\", \"Drizzle caramel sauce in a crosshatch pattern over the foam. Serve immediately.\"], \"equipment\": [\"espresso machine\", \"steam pitcher\", \"thermometer\", \"8-ounce glass or mug\", \"spoon\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"140\"}"
