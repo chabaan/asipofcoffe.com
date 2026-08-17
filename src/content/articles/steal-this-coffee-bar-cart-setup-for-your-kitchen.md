@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "SofiaBianchi."
 image: "/images/steal-this-coffee-bar-cart-setup-for-your-kitchen.webp"
 pubDate: "2026-07-04T19:30:04Z"
+recipe: "{\"title\": \"Simple Pour-Over Coffee\", \"ingredients\": [\"20 g freshly ground coffee (medium-fine, like sea salt, 320g filtered water (heated to 96°C/205°F))\"], \"instructions\": [\"Place the filter in the dripper and rinse it with hot water. Discard the rinse water. 2. Add the coffee grounds and level the bed. 3. Start the timer and pour 40g of water in a slow spiral, saturating all grounds. Wait 30 seconds for the bloom. 4. Continue pouring in concentric circles, adding water in 3 stages until you reach 320g total. 5. Let the water drain through. The total brew time should be 3:00 to 3:30. 6. Remove the dripper and enjoy.\"], \"equipment\": [\"gooseneck kettle\", \"pour-over dripper\", \"paper filter\", \"mug\", \"digital scale\", \"timer\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"5\"}"
 ---
 
 <p>I love the sound of a grinder in the morning. That low hum, the aroma of freshly broken beans — it sets the rhythm for the day. But for years, my coffee setup was scattered across the counter. The kettle lived near the sink. The beans hid in a cabinet. The dripper was always in the way. That changed when I built a dedicated coffee bar cart. Now everything I need is within arm's reach. No hunting, no clutter. Just a warm, simple station that makes brewing a pleasure.</p>
