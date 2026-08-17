@@ -31,6 +31,15 @@ const totalArticles = sorted.length;
 							<div class="cat">{a.data.category}</div>
 							<h3>{a.data.title}</h3>
 							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+							<div class="card-meta">
+								<span class="avatar">{(a.data.author ?? 'S')[0]}</span>
+								<span class="author-name">{a.data.author ?? 'Staff'}</span>
+								{a.data.pubDate && (
+									<time datetime={new Date(a.data.pubDate).toISOString()}>
+										{new Date(a.data.pubDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+									</time>
+								)}
+							</div>
 						</div>
 					</a>
 				</div>
