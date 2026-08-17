@@ -9,6 +9,28 @@ header.site-header nav{display:flex;gap:8px;flex-wrap:wrap;}
 header.site-header nav a{color:#333;text-decoration:none;font-size:.8rem;letter-spacing:.5px;text-transform:uppercase;font-weight:600;padding:12px 10px;display:inline-block;min-height:44px;box-sizing:border-box;display:inline-flex;align-items:center;}
 header.site-header nav a:hover{color:var(--accent);}
 
+#menu-toggle{display:none;background:none;border:none;cursor:pointer;color:var(--coffee);padding:8px;}
+
+@media (max-width: 680px){
+	header.site-header{position:relative;flex-wrap:nowrap;}
+	header.site-header nav{
+		display:none;
+		position:absolute;
+		top:100%;
+		left:0;
+		right:0;
+		background:#fff;
+		flex-direction:column;
+		gap:0;
+		box-shadow:0 8px 16px rgba(0,0,0,.08);
+		border-top:1px solid var(--border);
+		z-index:50;
+	}
+	header.site-header nav.open{display:flex;}
+	header.site-header nav a{width:100%;padding:14px 20px;border-bottom:1px solid #f5f0e8;}
+	#menu-toggle{display:block;}
+}
+
 .hero{background:var(--coffee);color:#fff;padding:36px 20px;text-align:center;}
 .hero h1{margin:0;font-size:2.1rem;}
 .hero p{margin:8px 0 0;opacity:.85;font-style:italic;}
