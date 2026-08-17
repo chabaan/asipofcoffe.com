@@ -6,8 +6,11 @@ import { siteConfig } from '../site.config';
 interface Props {
 	title: string;
 	description?: string;
+	image?: string;
 }
-const { title, description = siteConfig.defaultDescription } = Astro.props;
+const { title, description = siteConfig.defaultDescription, image } = Astro.props;
+const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 
 const articles = await getCollection('articles');
 const categories = [...new Set(articles.map((a) => a.data.category).filter(Boolean))];
@@ -19,6 +22,18 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 		<meta name="viewport" content="width=device-width" />
 		<title>{title}</title>
 		<meta name="description" content={description} />
+		<link rel="canonical" href={canonicalURL} />
+
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:url" content={canonicalURL} />
+		{ogImage && <meta property="og:image" content={ogImage} />}
+
+		<meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		{ogImage && <meta name="twitter:image" content={ogImage} />}
 	</head>
 	<body>
 		<header class="site-header">
