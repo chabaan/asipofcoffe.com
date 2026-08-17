@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "SofiaBianchi."
 image: "/images/a-coffee-bar-sign-so-pretty-youll-want-coffee-all-day.webp"
 pubDate: "2026-08-10T23:23:36Z"
+recipe: "{\"title\": \"Classic Pour Over for Two\", \"ingredients\": [\"30 g medium-fine ground coffee (like coarse sand, 500g water heated to 200°F (93°C))\"], \"instructions\": [\"Place the filter in the dripper and rinse with hot water. Discard rinse water. 2. Add ground coffee and level the bed. 3. Start timer and pour 60g water in a spiral, saturating all grounds. Bloom for 30 seconds. 4. After bloom, pour water slowly in concentric circles until total water reaches 300g. 5. Wait 30 seconds, then pour remaining 200g water steadily. 6. Allow water to drain completely. Total brew time should be about 3:30 to 4 minutes. 7. Serve immediately.\"], \"equipment\": [\"gooseneck kettle\", \"pour over dripper\", \"paper filter\", \"digital scale\", \"timer\", \"two mugs\"], \"servings\": \"2\", \"prep_time\": \"2\", \"cook_time\": \"4\", \"total_time\": \"6\", \"calories\": \"5\"}"
 ---
 
 <p>There is a quiet magic in a well-placed sign. The right one catches your eye as you walk into the kitchen, a gentle nudge that says <em>this space is for you</em>. A coffee bar sign does more than decorate — it sets the mood. It turns a corner of your counter into a ritual. And when it is pretty enough, it makes you want to brew coffee all day long.</p>
