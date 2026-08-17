@@ -2,7 +2,7 @@
 title: "Cinnamon Latte Recipe That Will Hook You Instantly"
 meta: "Learn to make a cinnamon latte with a precise hot-steep method that extracts real cinnamon flavor. This recipe will hook you from the first sip."
 category: "Coffee Recipes"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/cinnamon-latte-recipe-that-will-hook-you-instantly.webp"
 pubDate: "2026-07-12T13:35:46Z"
 recipe: "{\"title\": \"Hot-Steep Cinnamon Latte\", \"ingredients\": [\"1 cinnamon stick (Ceylon preferred)\", \"18 grams coffee beans (medium-dark roast, ground for espresso)\", \"30 grams espresso (1:2 brew ratio)\", \"200 grams whole milk\", \"Optional: 1 teaspoon brown sugar (if you need sweetness)\"], \"instructions\": [\"Place the cinnamon stick in your cup. Pull a double espresso directly over it, letting the hot coffee steep for 1 minute. This extracts the essential oils without bitterness.\", \"While the espresso steeps, steam the milk. Heat 200g whole milk to 150°F (65°C). Introduce steam at a 45-degree angle until the milk doubles in volume with microfoam. The surface should look like wet paint.\", \"Remove the cinnamon stick. Pour the steamed milk into the center of the cup from 4 inches high, then lower the pitcher to finish with a white dot on top.\", \"Serve immediately. Stir once to integrate the cinnamon layer.\"], \"equipment\": [\"espresso machine or moka pot\", \"milk frother or steam wand\", \"cinnamon stick\", \"kitchen scale\", \"thermometer\", \"cup\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"130\"}"
