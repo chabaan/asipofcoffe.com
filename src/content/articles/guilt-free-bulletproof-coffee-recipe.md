@@ -2,7 +2,7 @@
 title: "Guilt-Free Bulletproof Coffee Recipe"
 meta: "Make guilt-free bulletproof coffee with a cleaner fat profile and lower saturated fat. My go-to recipe with the exact ratio and technique."
 category: "Coffee Living"
-author: "HenrikSorensen."
+author: "Henrik Sorensen"
 image: "/images/guilt-free-bulletproof-coffee-recipe.webp"
 pubDate: "2026-07-02T14:25:12Z"
 recipe: "{\"title\": \"Guilt-Free Bulletproof Coffee\", \"ingredients\": [\"1 cup freshly brewed hot coffee (about 240ml)\", \"1 tablespoon unsalted grass-fed butter (14g)\", \"1 teaspoon MCT oil (5ml)\", \"Pinch of fine sea salt (optional)\"], \"instructions\": [\"Brew your coffee using your preferred method. I use a pour-over with a medium-fine grind, water just off the boil at 200°F (93°C).\", \"Add the hot coffee to a blender.\", \"Add the butter and MCT oil. The salt is optional but it helps balance bitterness and smooths the mouthfeel.\", \"Blend on low for 10 seconds, then increase to high for 20 seconds. You’ll see a thick, creamy foam form on top.\", \"Pour immediately into your mug. The foam will settle into a velvety layer. Drink right away for the best texture.\"], \"equipment\": [\"blender\", \"measuring spoons\", \"coffee mug\", \"coffee brewer\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"3\", \"total_time\": \"5\", \"calories\": \"210\"}"
