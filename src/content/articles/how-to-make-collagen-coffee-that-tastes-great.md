@@ -2,7 +2,7 @@
 title: "How to Make Collagen Coffee That Tastes Great"
 meta: "Learn the simple technique for collagen coffee that actually blends smooth and tastes great. No clumps, no chalkiness, just a creamy, healthy morning drink."
 category: "Coffee Living"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/how-to-make-collagen-coffee-that-tastes-great.webp"
 pubDate: "2026-08-17T12:06:40Z"
 recipe: "{\"title\": \"Smooth Collagen Coffee\", \"ingredients\": [\"1 cup 240 ml freshly brewed hot coffee, 1 scoop (about 10-12 g) unflavored collagen peptides powder, 1 tablespoon (15 ml) cold water (optional, for blooming), 1-2 tablespoons (15-30 ml) milk or milk alternative of choice (optional)\"], \"instructions\": [\"Brew your coffee using your preferred method. I use a medium-fine grind, water just off the boil (195-205°F / 90-96°C), and a 1:16 coffee-to-water ratio for a balanced cup. 2. While the coffee is brewing, place the collagen powder in your mug. A wide-bottomed mug helps prevent clumps. 3. If using the cold water bloom: add the cold water to the powder and stir with a small whisk or fork until a smooth, thick paste forms. This pre-hydrates the collagen. 4. Pour the hot coffee into the mug over the collagen paste (or directly over the powder if skipping the bloom). 5. Stir vigorously for 10-15 seconds until fully dissolved. The coffee should look slightly thicker and have a faint sheen on the surface. 6. Add milk if desired, stir, and serve immediately.\"], \"equipment\": [\"kettle or saucepan\", \"mug\", \"spoon or small whisk\", \"coffee brewer (drip\", \"pour-over\", \"or French press)\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"5\", \"total_time\": \"7\", \"calories\": \"90\"}"
