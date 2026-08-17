@@ -1,7 +1,7 @@
 ---
 title: "Batch Nitro Cold Brew for Camping All Week"
 meta: "Make smooth nitro cold brew at camp in one batch. Learn the exact ratio, brewing time, and how to serve it creamy all week without a fancy tap."
-category: "Cold Brew &amp; Summer Coffee"
+category: "Cold Brew & Summer Coffee"
 author: "HenrikSorensen ."
 image: "/images/batch-nitro-cold-brew-for-camping-all-week.webp"
 pubDate: "2026-08-23T12:35:21Z"
