@@ -2,7 +2,7 @@
 title: "Creamy Protein Cold Brew No Sugar Crash Recipe"
 meta: "Make a creamy protein cold brew with no sugar crash. Henrik Sorensen shares exact ratios, grind size, and technique for a smooth, energy-stable coffee."
 category: "Coffee Recipes"
-author: "HenrikSorensen ."
+author: "Henrik Sorensen"
 image: "/images/creamy-protein-cold-brew-no-sugar-crash-recipe.webp"
 pubDate: "2026-08-13T07:39:20Z"
 recipe: "{\"title\": \"Creamy Protein Cold Brew\", \"ingredients\": [\"1 cup coarse-ground coffee (like sea salt texture)\", \"4 cups filtered cold water\", \"2 scoops unflavored or vanilla protein powder (whey or plant-based)\", \"1/8 teaspoon fine sea salt\", \"1 cup unsweetened almond milk (or milk of choice)\", \"Ice cubes\"], \"instructions\": [\"Combine coarse-ground coffee and cold water in a large jar or French press. Stir gently to saturate all grounds.\", \"Cover and steep at room temperature for 12-15 hours (no longer, or it turns bitter).\", \"Pour steeped mixture through a fine-mesh strainer lined with cheesecloth into a clean container. Press gently on grounds to extract liquid — do not squeeze hard or you'll get silt.\", \"In a blender, combine 1 cup of cold brew concentrate, protein powder, sea salt, and almond milk. Blend on low for 10 seconds until smooth and frothy. If using a shaker, shake vigorously for 20 seconds.\", \"Fill two glasses with ice. Pour the protein cold brew over ice. Stir once and serve immediately.\"], \"equipment\": [\"French press or large jar\", \"fine-mesh strainer or cheesecloth\", \"measuring spoons\", \"blender or shaker bottle\", \"glass\"], \"servings\": \"2\", \"prep_time\": \"725\", \"cook_time\": \"5\", \"total_time\": \"730\", \"calories\": \"145\"}"
