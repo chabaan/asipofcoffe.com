@@ -2,7 +2,7 @@
 title: "Better-Than-Starbucks Salted Caramel Latte (Copycat)"
 meta: "Learn how to make a better-than-Starbucks salted caramel latte at home with a precise brew ratio, real caramel, and flaky salt. No syrups needed."
 category: "Coffee Recipes"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/better-than-starbucks-salted-caramel-latte-copycat.webp"
 pubDate: "2026-08-15T21:55:57Z"
 recipe: "{\"title\": \"Better-Than-Starbucks Salted Caramel Latte\", \"ingredients\": [\"2 shots espresso (about 2 oz or 60 ml or 1/2 cup strong brewed coffee, 1 cup whole milk (or oat milk for dairy-free), 2 tablespoons granulated sugar, 1 tablespoon water, 1/4 teaspoon flaky sea salt (plus extra for garnish), 1/2 teaspoon vanilla extract (optional))\"], \"instructions\": [\"Make the caramel: In a small saucepan over medium heat, combine sugar and water. Swirl gently—do not stir—until the sugar dissolves and turns amber, about 3-4 minutes. Remove from heat immediately. 2. Carefully add 2 tablespoons of milk (it may sputter) and stir until smooth. Add flaky sea salt and vanilla, if using. Set aside. 3. Brew your espresso or strong coffee. While it brews, heat the remaining milk in a small pot until steaming (about 150°F/65°C). Froth with a whisk or frother until velvety. 4. In a serving glass, drizzle about half the caramel. Pour in the hot espresso. Slowly add the frothed milk. 5. Top with remaining caramel drizzle and a pinch of flaky sea salt. Serve immediately.\"], \"equipment\": [\"espresso machine or Moka pot\", \"small saucepan\", \"milk frother or whisk\", \"glass or mug\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"180\"}"
