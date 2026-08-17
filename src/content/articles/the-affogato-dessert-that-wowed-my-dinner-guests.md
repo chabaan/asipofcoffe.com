@@ -2,7 +2,7 @@
 title: "The Affogato Dessert That Wowed My Dinner Guests"
 meta: "Learn the technique for a perfect affogato dessert that wowed my dinner guests, with exact espresso ratios and gelato tips."
 category: "Coffee Recipes"
-author: "HenrikSorensen."
+author: "Henrik Sorensen"
 image: "/images/the-affogato-dessert-that-wowed-my-dinner-guests.webp"
 pubDate: "2026-07-08T14:23:54Z"
 recipe: "{\"title\": \"Classic Affogato\", \"ingredients\": [\"4 oz 120 ml freshly brewed espresso (about 2 double shots)\", \"4 scoops high-quality vanilla gelato or ice cream\", \"Optional: dark chocolate shavings or cocoa powder for garnish\"], \"instructions\": [\"Place two dessert glasses or small bowls in the freezer for at least 15 minutes to chill.\", \"Brew two double shots of espresso (about 2 oz each) using your espresso machine. The water should be at 195-205°F (90-96°C). Aim for a 1:2 brew ratio — 18 grams of coffee grounds to 36 grams of liquid espresso in 25-30 seconds.\", \"Remove the chilled glasses from the freezer. Place two scoops of vanilla gelato in each glass. The gelato should be firm but scoopable — if it's too hard, let it sit at room temperature for 3-5 minutes.\", \"Pour one double shot of hot espresso over each serving of gelato. Pour slowly and evenly so the espresso cascades over the gelato, creating a thin layer of melted cream on top.\", \"Garnish with dark chocolate shavings or a dusting of cocoa powder if desired. Serve immediately.\"], \"equipment\": [\"Espresso machine\", \"dessert glasses or bowls\", \"ice cream scoop\"], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"180\"}"
