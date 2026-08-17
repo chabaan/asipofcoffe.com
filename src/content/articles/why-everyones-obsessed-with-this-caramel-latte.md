@@ -2,7 +2,7 @@
 title: "Why Everyone's Obsessed With This Caramel Latte"
 meta: "Learn why this caramel latte has become a favorite and how to dial in the perfect balance of espresso, milk, and caramel at home."
 category: "Coffee Recipes"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/why-everyones-obsessed-with-this-caramel-latte.webp"
 pubDate: "2026-07-07T07:58:45Z"
 recipe: "{\"title\": \"Perfect Caramel Latte\", \"ingredients\": [\"18 grams coffee beans (medium roast, finely ground)\", \"1 ounce 30 ml homemade caramel syrup (see notes)\", \"6 ounces 180 ml whole milk\", \"1 ounce 30 ml espresso (double shot)\"], \"instructions\": [\"Preheat your espresso machine and cup. Pull a double shot of espresso (1:2 ratio, 25-30 seconds) into the warmed cup.\", \"While the espresso pulls, combine caramel syrup and milk in a pitcher. Steam the mixture to 150°F (65°C), creating a smooth microfoam. Tap and swirl to eliminate large bubbles.\", \"Pour the steamed milk and caramel mixture over the espresso, holding back the foam with a spoon. Finish by spooning a thin layer of foam on top.\", \"Serve immediately. Stir gently before drinking to integrate the caramel evenly.\"], \"equipment\": [\"espresso machine with steam wand\", \"milk pitcher\", \"thermometer\", \"scale\", \"spoon\", \"8 oz cup\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"180\"}"
