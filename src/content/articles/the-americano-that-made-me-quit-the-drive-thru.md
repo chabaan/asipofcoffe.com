@@ -2,7 +2,7 @@
 title: "The Americano That Made Me Quit the Drive-Thru"
 meta: "Learn how a properly dialed-in Americano changed my drive-thru habit forever—with exact ratios, brew temps, and technique tips."
 category: "Brewing"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/the-americano-that-made-me-quit-the-drive-thru.webp"
 pubDate: "2026-07-12T14:20:56Z"
 recipe: "{\"title\": \"Perfect Home Americano\", \"ingredients\": [\"18 grams coffee beans (medium-dark roast)\", \"60 ml 2 oz hot water at 90°C (194°F)\", \"36 grams double espresso shot\", \"Salt (optional, a tiny pinch)\"], \"instructions\": [\"Heat water in the kettle to 90°C (194°F). 2. Grind 18 grams of coffee to a fine consistency (like table salt) for a double basket. 3. Distribute grounds evenly in the portafilter and tamp with firm, level pressure. 4. Lock the portafilter and start the shot. Aim for 36 grams of liquid in 25-30 seconds. 5. While the shot pulls, pour 60 ml of hot water into a pre-warmed cup. 6. Once the espresso is ready, pour it gently over the hot water. 7. Optionally, add a tiny pinch of salt to reduce bitterness. 8. Stir once and serve immediately.\"], \"equipment\": [\"Espresso machine\", \"grinder\", \"tamper\", \"kettle\", \"cup\", \"scale\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"5\", \"total_time\": \"10\", \"calories\": \"5\"}"
