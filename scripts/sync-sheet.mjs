@@ -62,8 +62,28 @@ async function main() {
 		const mdPath = path.join(ARTICLES_DIR, slug + '.md');
 
 		if (fs.existsSync(mdPath)) {
+			// Retry image download if the existing article's image is still an external (unfixed) URL
+			const existing = fs.readFileSync(mdPath, 'utf-8');
+			const imgMatch = existing.match(/^image:\s*"([^"]*)"/m);
+			const currentImage = imgMatch ? imgMatch[1] : '';
+			if (currentImage && !currentImage.startsWith('/images/')) {
+				try {
+					const imgRes = await fetch(currentImage);
+					if (imgRes.ok) {
+						const buffer = Buffer.from(await imgRes.arrayBuffer());
+						const outPath = path.join(IMAGES_DIR, slug + '.webp');
+						await sharp(buffer).resize(640, 480, { fit: 'cover' }).webp({ quality: 78 }).toFile(outPath);
+						const updated = existing.replace(/^image:\s*"[^"]*"/m, `image: "/images/${slug}.webp"`);
+						fs.writeFileSync(mdPath, updated);
+						console.log(`  Retried & fixed image: ${slug}`);
+						published++; // counts as a change so it gets committed
+					}
+				} catch (err) {
+					// still failing, leave as-is for next run
+				}
+			}
 			skippedExists++;
-			continue; // already published, don't touch
+			continue; // article itself already published, don't touch content
 		}
 
 		const content = row['Article Content'] || '';
