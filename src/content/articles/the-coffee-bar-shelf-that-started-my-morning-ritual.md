@@ -2,7 +2,7 @@
 title: "The Coffee Bar Shelf That Started My Morning Ritual"
 meta: "Build a coffee bar shelf that turns your morning brew into a ritual. Get the exact gear, ratios, and shelf layout that works."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/the-coffee-bar-shelf-that-started-my-morning-ritual.webp"
 pubDate: "2026-07-13T12:19:38Z"
 recipe: "{\"title\": \"Morning Ritual Pour Over\", \"ingredients\": [\"18 g whole bean coffee (medium roast recommended)\", \"300 g filtered water at 96°C (205°F)\"], \"instructions\": [\"Bring 300g filtered water to 96°C (205°F). Let it rest 30 seconds off boil.\", \"Place filter in dripper, rinse with hot water, then discard rinse water.\", \"Grind 18g coffee to medium-fine (texture like sea salt).\", \"Add ground coffee to filter and level the bed.\", \"Start timer and pour 50g water in a slow spiral from center out. Bloom 30 seconds.\", \"At 0:30, pour water to 150g in steady concentric circles.\", \"At 1:15, pour water to 240g, keeping the stream gentle.\", \"At 1:45, pour water to 300g, finishing with a light swirl of the dripper.\", \"Drawdown should finish between 3:00 and 3:30. Remove dripper and enjoy.\"], \"equipment\": [\"gooseneck kettle\", \"scale with timer\", \"pour over dripper (V60 or similar)\", \"paper filter\", \"mug\", \"burr grinder\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"4\", \"total_time\": \"6\", \"calories\": \"5\"}"
