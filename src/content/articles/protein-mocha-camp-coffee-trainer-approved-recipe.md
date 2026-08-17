@@ -2,7 +2,7 @@
 title: "Protein Mocha Camp Coffee: Trainer-Approved Recipe"
 meta: "Make the protein mocha my trainer swears by at camp. Easy stovetop, campfire, or Blackstone recipe with whey, cocoa, and hot coffee."
 category: "Hot Latte & Espresso Drinks"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/protein-mocha-camp-coffee-trainer-approved-recipe.webp"
 pubDate: "2026-08-15T12:41:29Z"
 recipe: "{\"title\": \"Camp Protein Mocha\", \"ingredients\": [\"1 cup strong brewed coffee (or 2 shots espresso)\", \"1/2 cup milk of choice (dairy, oat, or almond)\", \"1 scoop chocolate or unflavored whey protein (about 25g protein)\", \"1 tbsp unsweetened cocoa powder\", \"1 tsp maple syrup or honey (optional)\", \"Pinch of salt\", \"Shaved dark chocolate (optional, for garnish)\"], \"instructions\": [\"Brew your coffee or espresso. Keep it hot but not boiling—around 175°F to 185°F if you have a thermometer.\", \"In a small saucepan over medium heat, warm the milk until steaming (about 150°F). Do not boil.\", \"Remove the pan from heat. Whisk in the cocoa powder and a pinch of salt until no lumps remain.\", \"Add the whey protein powder. Whisk vigorously for 30 seconds until fully dissolved and frothy. If lumps form, use a fork to mash them.\", \"Pour the hot coffee into a heatproof mug.\", \"Add the protein-milk mixture. Stir gently to combine.\", \"Taste and add maple syrup or honey if you want it sweeter.\", \"Garnish with shaved dark chocolate if you like. Serve immediately.\"], \"equipment\": [\"camp stove or campfire\", \"small saucepan\", \"whisk\", \"heatproof mug\", \"measuring spoons\", \"milk frother (optional)\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": \"10\", \"total_time\": \"15\", \"calories\": \"210\"}"
