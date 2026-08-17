@@ -10,6 +10,7 @@ const articles = defineCollection({
     author: z.string().optional(),
     image: z.string().optional(),
     pubDate: z.coerce.date().optional(),
+    recipe: z.string().optional(),
   }),
 });
 
