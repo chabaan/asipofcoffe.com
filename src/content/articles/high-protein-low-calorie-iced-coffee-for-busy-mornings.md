@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "PriyaNair."
 image: "/images/high-protein-low-calorie-iced-coffee-for-busy-mornings.webp"
 pubDate: "2026-07-09T21:43:37Z"
+recipe: "{\"title\": \"High-Protein Low Calorie Iced Coffee\", \"ingredients\": [\"1/2 cup cold brew concentrate (double-strength)\", \"1/2 cup cold water\", \"1 scoop (25g unflavored whey protein isolate)\", \"Ice cubes (enough to fill a 12 oz glass)\", \"Optional: 1-2 drops liquid stevia or a pinch of cinnamon\"], \"instructions\": [\"Fill a 12 oz glass with ice cubes.\", \"In a shaker bottle or jar, combine cold brew concentrate, cold water, and whey protein isolate.\", \"Secure the lid and shake vigorously for 15-20 seconds until the protein is fully dissolved and the mixture is slightly frothy.\", \"Pour the mixture over the ice. If you like a touch of sweetness, add liquid stevia or a dusting of cinnamon on top.\", \"Stir gently and drink immediately.\"], \"equipment\": [\"shaker bottle or jar with tight lid\", \"measuring spoons\", \"glass filled with ice\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"85\"}"
 ---
 
 <p>The first sip hits you with a clean, almost creamy texture — not chalky, not watery. Just cold coffee with a body that feels like it belongs. That's the magic of getting the protein-to-liquid ratio right. For busy mornings, I keep this simple: double-strength cold brew, unflavored whey isolate, and cold water. No blender, no heating, no fuss.</p>
