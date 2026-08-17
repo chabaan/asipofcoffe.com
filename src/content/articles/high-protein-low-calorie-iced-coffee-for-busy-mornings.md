@@ -2,7 +2,7 @@
 title: "High-Protein Low Calorie Iced Coffee for Busy Mornings"
 meta: "Make a high-protein low calorie iced coffee at home in 5 minutes. A simple method using cold brew concentrate and whey protein isolate for busy mornings."
 category: "Coffee Living"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/high-protein-low-calorie-iced-coffee-for-busy-mornings.webp"
 pubDate: "2026-07-09T21:43:37Z"
 recipe: "{\"title\": \"High-Protein Low Calorie Iced Coffee\", \"ingredients\": [\"1/2 cup cold brew concentrate (double-strength)\", \"1/2 cup cold water\", \"1 scoop (25g unflavored whey protein isolate)\", \"Ice cubes (enough to fill a 12 oz glass)\", \"Optional: 1-2 drops liquid stevia or a pinch of cinnamon\"], \"instructions\": [\"Fill a 12 oz glass with ice cubes.\", \"In a shaker bottle or jar, combine cold brew concentrate, cold water, and whey protein isolate.\", \"Secure the lid and shake vigorously for 15-20 seconds until the protein is fully dissolved and the mixture is slightly frothy.\", \"Pour the mixture over the ice. If you like a touch of sweetness, add liquid stevia or a dusting of cinnamon on top.\", \"Stir gently and drink immediately.\"], \"equipment\": [\"shaker bottle or jar with tight lid\", \"measuring spoons\", \"glass filled with ice\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"85\"}"
