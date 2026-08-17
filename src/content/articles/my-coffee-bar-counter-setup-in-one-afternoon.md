@@ -2,7 +2,7 @@
 title: "My Coffee Bar Counter Setup in One Afternoon"
 meta: "Set up a coffee bar counter in one afternoon with this practical guide. Includes exact ratios, gear tips, and a simple espresso tonic recipe."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/my-coffee-bar-counter-setup-in-one-afternoon.webp"
 pubDate: "2026-08-18T12:11:30Z"
 recipe: "{\"title\": \"Espresso Tonic\", \"ingredients\": [\"1 double shot espresso (18g coffee, 36g yield)\", \"120 ml chilled tonic water\", \"Ice cubes\", \"Lemon or orange twist (optional)\"], \"instructions\": [\"Brew a double shot of espresso. Aim for 25-30 seconds extraction time.\", \"Fill a tall glass with ice cubes.\", \"Pour tonic water over the ice.\", \"Slowly pour the hot espresso over the tonic. Watch the foam rise.\", \"Garnish with a citrus twist, if desired. Serve immediately.\"], \"equipment\": [\"espresso machine or moka pot\", \"glass\", \"spoon\", \"citrus peeler (optional)\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"25\"}"
