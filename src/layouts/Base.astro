@@ -23,13 +23,20 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 	<body>
 		<header class="site-header">
 			<a class="logo" href="/">{siteConfig.emoji} {siteConfig.domain}</a>
-			<nav>
+			<nav id="site-nav">
 				<a href="/">Home</a>
 				<a href="/archive/">Archive</a>
 				{categories.map((c) => (
 					<a href={`/category/${c?.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}/`}>{c}</a>
 				))}
 			</nav>
+			<button id="menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="site-nav">
+				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+					<line x1="3" y1="6" x2="21" y2="6"></line>
+					<line x1="3" y1="12" x2="21" y2="12"></line>
+					<line x1="3" y1="18" x2="21" y2="18"></line>
+				</svg>
+			</button>
 		</header>
 		<div class="hero">
 			<h1>{siteConfig.name}</h1>
@@ -37,5 +44,13 @@ const categories = [...new Set(articles.map((a) => a.data.category).filter(Boole
 		</div>
 		<slot />
 		<footer class="site-footer">{siteConfig.footerText}</footer>
+		<script>
+			const btn = document.getElementById('menu-toggle');
+			const nav = document.getElementById('site-nav');
+			btn?.addEventListener('click', () => {
+				const isOpen = nav?.classList.toggle('open');
+				btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+			});
+		</script>
 	</body>
 </html>
