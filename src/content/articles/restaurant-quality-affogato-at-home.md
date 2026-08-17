@@ -2,7 +2,7 @@
 title: "Restaurant-Quality Affogato at Home"
 meta: "Learn how to make a restaurant-quality affogato at home with the perfect espresso-to-gelato ratio, precise timing, and pro tips for silky texture."
 category: "Coffee Recipes"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/restaurant-quality-affogato-at-home.webp"
 pubDate: "2026-08-18T08:08:32Z"
 recipe: "{\"title\": \"Classic Affogato\", \"ingredients\": [\"1 scoop high-quality vanilla gelato or ice cream (about 60g)\", \"1 double shot of espresso (about 36g or 2 oz)\", \"Optional: cocoa powder or dark chocolate shavings for garnish\"], \"instructions\": [\"Place your serving glass or cup in the freezer for at least 10 minutes before assembling.\", \"Brew a double shot of espresso (aim for 36g liquid in 25–30 seconds).\", \"Remove the chilled glass from the freezer and place one scoop of gelato in it.\", \"Immediately pour the hot espresso over the gelato—pour in a steady stream directly onto the center of the scoop.\", \"Serve at once. The affogato should be eaten immediately, while the gelato is still firm but beginning to melt around the edges.\"], \"equipment\": [\"espresso machine or stovetop espresso maker\", \"small chilled glass or cup\", \"ice cream scoop\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"2\", \"total_time\": \"4\", \"calories\": \"180\"}"
