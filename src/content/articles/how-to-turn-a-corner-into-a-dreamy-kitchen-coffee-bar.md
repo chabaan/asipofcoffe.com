@@ -2,7 +2,7 @@
 title: "How to Turn a Corner Into a Dreamy Kitchen Coffee Bar"
 meta: "Learn how to turn a corner into a dreamy kitchen coffee bar with practical tips on layout, gear, and brewing ratios for a warm, efficient space."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/how-to-turn-a-corner-into-a-dreamy-kitchen-coffee-bar.webp"
 pubDate: "2026-07-11T09:00:53Z"
 recipe: "{\"title\": \"Classic Pour-Over for Two\", \"ingredients\": [\"30 g medium-roast coffee beans (480 g filtered water (just off boil, 195-205°F))\"], \"instructions\": [\"Bring 500 g filtered water to a boil, then let it rest for 30 seconds to reach 200°F. 2. Grind coffee to a medium-fine consistency (similar to sea salt). 3. Fold the paper filter along its seam and place it in the dripper. Rinse the filter with hot water, then discard the rinse water. 4. Place the dripper on your scale, add the ground coffee, and tare. 5. Start a timer and pour 60 g water in a slow spiral over the grounds, saturating them evenly. Let it bloom for 30 seconds. 6. After the bloom, pour water in concentric circles, adding 210 g more water over the next 45 seconds (total 270 g). Pause until the water level drops about halfway. 7. Pour the remaining 210 g water in the same spiral motion, finishing at about 2 minutes. 8. Let the water drip through completely (total brew time around 3-3.5 minutes). Remove the dripper and swirl the carafe gently before serving.\"], \"equipment\": [\"gooseneck kettle\", \"pour-over dripper (V60 or similar)\", \"paper filter\", \"digital scale\", \"grinder\", \"two mugs or a carafe\"], \"servings\": \"2\", \"prep_time\": \"3\", \"cook_time\": \"4\", \"total_time\": \"7\", \"calories\": \"5\"}"
