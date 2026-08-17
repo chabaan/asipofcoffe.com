@@ -2,7 +2,7 @@
 title: "Foolproof Cafe Cubano Recipe for Coffee Lovers"
 meta: "Learn the foolproof Cafe Cubano method for coffee lovers. Master the espuma with exact ratios and technique for a sweet, bold brew."
 category: "Coffee Living"
-author: "LucasMoreau."
+author: "Lucas Moreau"
 image: "/images/foolproof-cafe-cubano-recipe-for-coffee-lovers.webp"
 pubDate: "2026-08-14T13:33:10Z"
 recipe: "{\"title\": \"Foolproof Cafe Cubano\", \"ingredients\": [\"2 shots (about 60 ml freshly brewed espresso or strong coffee)\", \"1.5 tablespoons 20 grams demerara sugar (or raw cane sugar)\", \"1 tablespoon hot water (if needed)\"], \"instructions\": [\"Brew your espresso or strong coffee using your preferred method. If using a moka pot, aim for a dark, concentrated brew.\", \"While the coffee brews, place the demerara sugar in a small bowl or ramekin. Add just 1 teaspoon of hot coffee (or water) — enough to moisten the sugar.\", \"Using a spoon, vigorously stir the sugar and liquid together. The mixture will turn into a thick, pale paste. Keep stirring until it lightens in color and becomes creamy — this is the espuma. It should take about 2–3 minutes of continuous stirring.\", \"Pour the freshly brewed hot espresso into the espuma. Do not stir. Let the coffee sit for 10 seconds so the foam rises to the top.\", \"Gently stir once to incorporate the foam slightly, then pour into demitasse cups. Serve immediately.\"], \"equipment\": [\"Espresso machine or stovetop moka pot\", \"small bowl or ramekin\", \"spoon\", \"demitasse cups\"], \"servings\": \"2\", \"prep_time\": \"3\", \"cook_time\": \"5\", \"total_time\": \"8\", \"calories\": \"60\"}"
