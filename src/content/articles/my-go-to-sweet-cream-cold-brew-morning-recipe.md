@@ -2,7 +2,7 @@
 title: "My Go-To Sweet Cream Cold Brew Morning Recipe"
 meta: "I make this sweet cream cold brew every morning — here's why this simple ratio and technique beats any coffee shop version."
 category: "Coffee Recipes"
-author: "PriyaNair."
+author: "Priya Nair"
 image: "/images/my-go-to-sweet-cream-cold-brew-morning-recipe.webp"
 pubDate: "2026-06-28T12:31:20Z"
 recipe: "{\"title\": \"Sweet Cream Cold Brew\", \"ingredients\": [\"1 cup coarsely ground coffee (like coarse sea salt)\", \"4 cups cold (filtered water)\", \"1/2 cup heavy cream\", \"2 tablespoons whole milk\", \"1 tablespoon maple syrup (or simple syrup)\", \"1/4 teaspoon vanilla extract\", \"ice cubes\"], \"instructions\": [\"Combine ground coffee and cold water in a large jar. Stir gently to saturate all grounds. Cover and steep at room temperature for 12 hours.\", \"After steeping, pour through a fine-mesh strainer lined with a coffee filter or a nut milk bag. Discard grounds. The concentrate should be dark and opaque.\", \"In a small bowl, whisk together heavy cream, whole milk, maple syrup, and vanilla extract until the syrup dissolves and the mixture thickens slightly — about 30 seconds. It should coat the back of a spoon but still pour easily.\", \"Fill two glasses with ice. Pour 1/2 cup cold brew concentrate into each glass, then top with 1/2 cup cold water (or milk for a richer drink). Stir.\", \"Gently pour the sweet cream mixture over the back of a spoon held just above the drink's surface. It will layer on top. Serve immediately.\"], \"equipment\": [\"large jar or pitcher\", \"fine-mesh strainer or coffee filter\", \"small bowl\", \"whisk\"], \"servings\": \"2\", \"prep_time\": \"725\", \"cook_time\": null, \"total_time\": \"725\", \"calories\": \"110\"}"
