@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "SofiaBianchi."
 image: "/images/my-coffee-bar-counter-setup-in-one-afternoon.webp"
 pubDate: "2026-08-18T12:11:30Z"
+recipe: "{\"title\": \"Espresso Tonic\", \"ingredients\": [\"1 double shot espresso (18g coffee, 36g yield)\", \"120 ml chilled tonic water\", \"Ice cubes\", \"Lemon or orange twist (optional)\"], \"instructions\": [\"Brew a double shot of espresso. Aim for 25-30 seconds extraction time.\", \"Fill a tall glass with ice cubes.\", \"Pour tonic water over the ice.\", \"Slowly pour the hot espresso over the tonic. Watch the foam rise.\", \"Garnish with a citrus twist, if desired. Serve immediately.\"], \"equipment\": [\"espresso machine or moka pot\", \"glass\", \"spoon\", \"citrus peeler (optional)\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"25\"}"
 ---
 
 <p>The idea came on a quiet Saturday. I had a corner of the kitchen counter that collected mail and dust. By late afternoon, it held a functioning coffee bar. No renovation, no special carpentry. Just a few decisions about what to put where, and a commitment to keep it simple.</p>
