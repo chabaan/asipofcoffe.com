@@ -2,7 +2,7 @@
 title: "Cafe con Leche So Smooth You'll Make Two: My Go-To Method"
 meta: "Learn how to make a cafe con leche so smooth you'll make two. I share my exact brew ratio, milk temperature, and technique for a velvety cup every time."
 category: "Coffee Recipes"
-author: "HenrikSorensen."
+author: "Henrik Sorensen"
 image: "/images/cafe-con-leche-so-smooth-youll-make-two-my-go-to-method.webp"
 pubDate: "2026-08-12T07:37:33Z"
 recipe: "{\"title\": \"Cafe con Leche\", \"ingredients\": [\"2 shots (about 2 oz total freshly brewed espresso or strong Moka pot coffee)\", \"1 1/2 cups whole milk (or oat milk for dairy-free)\", \"1 teaspoon sugar (optional, to taste)\"], \"instructions\": [\"Brew your espresso or Moka pot coffee. Aim for a 1:2 coffee-to-water ratio for a concentrated shot.\", \"While the coffee brews, gently heat the milk in a small saucepan over medium-low heat, stirring occasionally, until it reaches 150°F (65°C). Do not let it boil.\", \"Froth the milk until it has a silky microfoam—small, fine bubbles that integrate smoothly into the milk. Avoid large, stiff foam.\", \"Divide the espresso evenly between two small cups.\", \"Pour the frothed milk over the espresso in a steady stream, holding back the foam with a spoon. Then spoon a thin layer of foam on top.\", \"Stir gently to combine the coffee and milk, or serve as-is for a layered effect.\", \"Add sugar to taste, if desired. Serve immediately.\"], \"equipment\": [\"Espresso machine or Moka pot\", \"milk frother or steam wand\", \"thermometer\", \"2 small cups or demitasse glasses\"], \"servings\": \"2\", \"prep_time\": \"3\", \"cook_time\": \"5\", \"total_time\": \"8\", \"calories\": \"120\"}"
