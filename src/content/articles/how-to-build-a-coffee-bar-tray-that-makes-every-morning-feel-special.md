@@ -2,7 +2,7 @@
 title: "How to Build a Coffee Bar Tray That Makes Every Morning Feel Special"
 meta: "Learn how to build a coffee bar tray that makes every morning feel special with my curated setup, exact brewing ratios, and simple hosting tips."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/how-to-build-a-coffee-bar-tray-that-makes-every-morning-feel-special.webp"
 pubDate: "2026-08-20T21:50:43Z"
 recipe: "{\"title\": \"Classic Pour-Over Coffee on a Tray\", \"ingredients\": [\"15 grams freshly ground coffee (medium-fine, like table salt)\", \"240 grams filtered water (heated to 200°F (93°C))\"], \"instructions\": [\"Place your coffee bar tray with all equipment ready. Set the dripper over your mug on the scale. Fold and insert the paper filter, then rinse it with hot water from the kettle; discard rinse water.\", \"Add 15 grams of ground coffee to the filter. Gently shake the dripper to level the bed.\", \"Start your timer. Pour 30 grams of water in a slow, circular motion covering all grounds. Let it bloom for 30 seconds.\", \"After the bloom, pour water in concentric circles, aiming for 120 grams total by 1:00 minute. Pause and let the water drain.\", \"Continue pouring slowly until you reach 240 grams total, finishing around 1:45-2:00 minutes. The brew should finish dripping by 3:00-3:30 minutes.\", \"Remove the dripper, swirl the mug gently, and serve immediately on the tray.\"], \"equipment\": [\"coffee bar tray\", \"gooseneck kettle\", \"pour-over dripper (V60 or similar)\", \"paper filter\", \"digital scale\", \"timer\", \"mug or carafe\", \"small pitcher for hot water\"], \"servings\": \"1\", \"prep_time\": \"3\", \"cook_time\": \"4\", \"total_time\": \"7\", \"calories\": \"5\"}"
