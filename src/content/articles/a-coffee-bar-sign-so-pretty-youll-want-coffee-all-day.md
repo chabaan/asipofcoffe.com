@@ -2,7 +2,7 @@
 title: "A Coffee Bar Sign So Pretty You'll Want Coffee All Day"
 meta: "Create a coffee bar sign so pretty it invites you to brew all day. Learn placement, style, and a pro brewing tip to match your decor."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/a-coffee-bar-sign-so-pretty-youll-want-coffee-all-day.webp"
 pubDate: "2026-08-10T23:23:36Z"
 recipe: "{\"title\": \"Classic Pour Over for Two\", \"ingredients\": [\"30 g medium-fine ground coffee (like coarse sand, 500g water heated to 200°F (93°C))\"], \"instructions\": [\"Place the filter in the dripper and rinse with hot water. Discard rinse water. 2. Add ground coffee and level the bed. 3. Start timer and pour 60g water in a spiral, saturating all grounds. Bloom for 30 seconds. 4. After bloom, pour water slowly in concentric circles until total water reaches 300g. 5. Wait 30 seconds, then pour remaining 200g water steadily. 6. Allow water to drain completely. Total brew time should be about 3:30 to 4 minutes. 7. Serve immediately.\"], \"equipment\": [\"gooseneck kettle\", \"pour over dripper\", \"paper filter\", \"digital scale\", \"timer\", \"two mugs\"], \"servings\": \"2\", \"prep_time\": \"2\", \"cook_time\": \"4\", \"total_time\": \"6\", \"calories\": \"5\"}"
