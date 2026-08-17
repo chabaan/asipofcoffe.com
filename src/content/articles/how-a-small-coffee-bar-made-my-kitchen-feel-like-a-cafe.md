@@ -2,7 +2,7 @@
 title: "How a Small Coffee Bar Made My Kitchen Feel Like a Cafe"
 meta: "Learn how a small coffee bar made my kitchen feel like a cafe with exact ratios, gear tips, and a simple setup that works in any space."
 category: "Coffee Living"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/how-a-small-coffee-bar-made-my-kitchen-feel-like-a-cafe.webp"
 pubDate: "2026-08-16T19:56:29Z"
 recipe: "{\"title\": \"Classic Pour-Over with a Cafe Touch\", \"ingredients\": [\"15 grams coffee beans (medium-fine grind, 250 grams water, just off boil (200°F / 93°C))\"], \"instructions\": [\"Boil water and let it rest for 30 seconds to reach 200°F (93°C). 2. Grind 15 grams of coffee to a medium-fine texture (like fine beach sand). 3. Place a paper filter in the dripper and rinse it with hot water to remove paper taste; discard rinse water. 4. Add ground coffee to the filter and level the bed. 5. Start the timer and pour 30 grams of water in a spiral from center out, saturating all grounds. Wait 30 seconds for the bloom. 6. Continue pouring slowly in concentric circles, adding water up to 250 grams total by 1:30. 7. Let the water drain through; total brew time should be about 2:30 to 3:00. 8. Swirl the mug gently and serve.\"], \"equipment\": [\"gooseneck kettle\", \"pour-over dripper\", \"paper filter\", \"digital scale\", \"mug\", \"burr grinder\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"3\", \"total_time\": \"5\", \"calories\": \"5\"}"
