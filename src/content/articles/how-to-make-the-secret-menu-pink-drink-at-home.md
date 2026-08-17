@@ -5,6 +5,7 @@ category: "Coffee Recipes"
 author: "SofiaBianchi."
 image: "/images/how-to-make-the-secret-menu-pink-drink-at-home.webp"
 pubDate: "2026-07-02T21:27:53Z"
+recipe: "{\"title\": \"Creamy Pink Cold Brew\", \"ingredients\": [\"6 oz cold brew concentrate (brewed at 1:5 ratio, coffee to water)\", \"2 oz full-fat coconut milk (canned, shaken well)\", \"1 oz strawberry simple syrup (homemade or store-bought)\", \"½ cup ice cubes\", \"Optional: 1 tsp vanilla extract (freeze-dried strawberry pieces for garnish)\"], \"instructions\": [\"Fill a tall glass with ice cubes.\", \"Pour the strawberry simple syrup over the ice.\", \"Slowly add the cold brew concentrate. The syrup will rise slightly.\", \"Gently pour the coconut milk over the back of a spoon so it floats on top. Watch the pink and white layers form.\", \"Stir once or twice just before drinking to blend the layers. Garnish with a few freeze-dried strawberry bits if you like.\"], \"equipment\": [\"tall glass\", \"spoon or stirrer\", \"measuring spoons\", \"liquid measuring cup\", \"ice cube tray\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"135\"}"
 ---
 
 <p>The first time I saw a pink drink cross a café counter, I thought it was a juice. But then I caught the scent of coffee underneath the berry sweetness. That contrast — creamy, fruity, and deeply roasty — made me want to recreate it at home. Not as a sugary novelty, but as a balanced iced coffee that actually tastes like coffee.</p>
