@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	function catSlug(cat) {
+		return cat.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+	}
+	const articles = await getCollection('articles');
+	const categories = [...new Set(articles.map((a) => a.data.category).filter(Boolean))];
+	return categories.map((cat) => ({
+		params: { cat: catSlug(cat) },
+		props: { categoryName: cat },
+	}));
+}
+
+const { categoryName } = Astro.props;
+const articles = await getCollection('articles');
+const filtered = articles
+	.filter((a) => a.data.category === categoryName)
+	.sort((a, b) => {
+		const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+		const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+		return db - da;
+	});
+---
+<Base title={`${categoryName} — Articles`}>
+	<main>
+		<h2 class="section-title">{categoryName} ({filtered.length})</h2>
+		<div class="grid">
+			{filtered.map((a) => (
+				<div class="card">
+					<a href={`/${a.id}/`}>
+						<img class="thumb" src={a.data.image} alt={a.data.title} loading="lazy" onerror="this.style.display='none'" />
+						<div class="body">
+							<div class="cat">{a.data.category}</div>
+							<h3>{a.data.title}</h3>
+							<p>{(a.data.meta ?? '').slice(0, 100)}...</p>
+							<div class="card-meta">
+								<span class="avatar">{(a.data.author ?? 'S')[0]}</span>
+								<span class="author-name">{a.data.author ?? 'Staff'}</span>
+								{a.data.pubDate && (
+									<time datetime={new Date(a.data.pubDate).toISOString()}>
+										{new Date(a.data.pubDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+									</time>
+								)}
+							</div>
+						</div>
+					</a>
+				</div>
+			))}
+		</div>
+	</main>
+</Base>
