@@ -2,7 +2,7 @@
 title: "Dirty Chai Latte in 5 Minutes at Your Campsite"
 meta: "Make a dirty chai latte in under 5 minutes with instant espresso, chai tea, and milk. No barista needed—just a camp stove and a mug."
 category: "Iced Coffee Recipes 2026"
-author: "SofiaBianchi."
+author: "Sofia Bianchi"
 image: "/images/dirty-chai-latte-in-5-minutes-at-your-campsite.webp"
 pubDate: "2026-08-22T13:29:46Z"
 recipe: "{\"title\": \"Campfire Dirty Chai Latte\", \"ingredients\": [\"1 chai tea bag\", \"1/2 cup water\", \"1/2 cup milk (dairy or non-dairy)\", \"1 teaspoon instant espresso powder (adjust to taste)\", \"1-2 teaspoons sugar (honey, or maple syrup (optional))\", \"Pinch of ground cinnamon or cardamom (optional)\"], \"instructions\": [\"In a small saucepan over medium heat, bring 1/2 cup water to a gentle simmer (about 2 minutes).\", \"Turn off the heat, add the chai tea bag, and steep for 2 minutes. Squeeze the bag gently to extract flavor, then remove and discard.\", \"Stir in the instant espresso powder until fully dissolved. Add sweetener if using.\", \"Pour in the milk and heat over medium-low, stirring occasionally, until steaming but not boiling—about 1-2 minutes. Watch for small bubbles at the edge; don't let it boil.\", \"Pour into your mug, sprinkle with cinnamon or cardamom if desired, and enjoy immediately.\"], \"equipment\": [\"camp stove\", \"small saucepan\", \"mug\", \"spoon\", \"measuring spoons\", \"whisk (optional)\"], \"servings\": \"1\", \"prep_time\": \"2\", \"cook_time\": \"3\", \"total_time\": \"5\", \"calories\": \"180\"}"
