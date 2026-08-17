@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "PriyaNair."
 image: "/images/coffee-nook-ideas-that-actually-fit-small-kitchens.webp"
 pubDate: "2026-06-27T13:27:48Z"
+recipe: "{\"title\": \"Quick Iced Latte for Small Spaces\", \"ingredients\": [\"1 cup strong brewed coffee (cooled)\", \"1/2 cup whole milk (or oat milk)\", \"1 tablespoon simple syrup (optional)\", \"Ice cubes\"], \"instructions\": [\"Brew 1 cup of coffee using a 1:15 coffee-to-water ratio (about 2 tablespoons ground coffee per cup of water). Let it cool to room temperature, about 10 minutes.\", \"Fill a mason jar or tall glass with ice cubes.\", \"Pour the cooled coffee over the ice.\", \"Add the milk slowly, stirring gently with a spoon to create a layered effect.\", \"Sweeten with simple syrup if desired. Stir and enjoy immediately.\"], \"equipment\": [\"Mason jar or tall glass\", \"spoon\", \"measuring cup\", \"ice cube tray\"], \"servings\": \"1\", \"prep_time\": \"5\", \"cook_time\": null, \"total_time\": \"5\", \"calories\": \"90\"}"
 ---
 
 <p>I live in a kitchen where the counter space is measured in inches, not feet. The coffee corner I dreamed of—a full espresso machine, a grinder, a dedicated sink—wasn't going to happen. So I got creative. A coffee nook for a small kitchen isn't about square footage. It's about smart choices and a few non-negotiables that make every cup worth the squeeze.</p>
