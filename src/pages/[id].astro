@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
+import { siteConfig } from '../site.config';
 
 export async function getStaticPaths() {
 	const articles = await getCollection('articles');
@@ -21,9 +22,44 @@ export async function getStaticPaths() {
 
 const { kind, entry } = Astro.props;
 const { Content } = await render(entry);
+
+let recipe = null;
+if (kind === 'article' && entry.data.recipe) {
+	try {
+		recipe = JSON.parse(entry.data.recipe);
+	} catch (e) {
+		recipe = null;
+	}
+}
+
+let recipeSchema = null;
+if (recipe) {
+	recipeSchema = {
+		"@context": "https://schema.org/",
+		"@type": "Recipe",
+		"name": recipe.title || entry.data.title,
+		"image": entry.data.image ? [`https://${siteConfig.domain}${entry.data.image}`] : undefined,
+		"author": { "@type": "Person", "name": entry.data.author || siteConfig.name },
+		"description": entry.data.meta,
+		"recipeCategory": entry.data.category,
+		"recipeIngredient": recipe.ingredients,
+		"recipeInstructions": (recipe.instructions || []).map((step) => ({
+			"@type": "HowToStep",
+			"text": step,
+		})),
+		"prepTime": recipe.prep_time ? `PT${recipe.prep_time}M` : undefined,
+		"cookTime": recipe.cook_time ? `PT${recipe.cook_time}M` : undefined,
+		"totalTime": recipe.total_time ? `PT${recipe.total_time}M` : undefined,
+		"recipeYield": recipe.servings ? `${recipe.servings} servings` : undefined,
+		"nutrition": recipe.calories ? { "@type": "NutritionInformation", "calories": `${recipe.calories} calories` } : undefined,
+	};
+}
 ---
 {kind === 'article' ? (
 	<Base title={entry.data.title} description={entry.data.meta}>
+		{recipeSchema && (
+			<script type="application/ld+json" set:html={JSON.stringify(recipeSchema)} />
+		)}
 		<article class="post">
 			<a class="back" href="/">&larr; Back to home</a>
 			<img class="featured" src={entry.data.image} alt={entry.data.title} onerror="this.style.display='none'" />
@@ -31,6 +67,46 @@ const { Content } = await render(entry);
 			<h1>{entry.data.title}</h1>
 			<div class="meta">By {entry.data.author}</div>
 			<div class="content"><Content /></div>
+
+			{recipe && (
+				<div class="recipe-card">
+					<h2>Recipe: {recipe.title}</h2>
+					<div class="recipe-stats">
+						{recipe.prep_time && <div class="stat"><span class="label">Prep Time</span><span class="value">{recipe.prep_time} min</span></div>}
+						{recipe.cook_time && <div class="stat"><span class="label">Cook Time</span><span class="value">{recipe.cook_time} min</span></div>}
+						{recipe.total_time && <div class="stat"><span class="label">Total Time</span><span class="value">{recipe.total_time} min</span></div>}
+						{recipe.servings && <div class="stat"><span class="label">Servings</span><span class="value">{recipe.servings}</span></div>}
+						{recipe.calories && <div class="stat"><span class="label">Calories</span><span class="value">{recipe.calories}</span></div>}
+					</div>
+
+					{recipe.equipment && recipe.equipment.length > 0 && (
+						<div class="recipe-section">
+							<h3>Equipment</h3>
+							<ul>
+								{recipe.equipment.map((eq) => <li>{eq}</li>)}
+							</ul>
+						</div>
+					)}
+
+					{recipe.ingredients && recipe.ingredients.length > 0 && (
+						<div class="recipe-section">
+							<h3>Ingredients</h3>
+							<ul>
+								{recipe.ingredients.map((ing) => <li>{ing}</li>)}
+							</ul>
+						</div>
+					)}
+
+					{recipe.instructions && recipe.instructions.length > 0 && (
+						<div class="recipe-section">
+							<h3>Instructions</h3>
+							<ol>
+								{recipe.instructions.map((step) => <li>{step}</li>)}
+							</ol>
+						</div>
+					)}
+				</div>
+			)}
 		</article>
 	</Base>
 ) : (
