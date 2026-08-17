@@ -5,6 +5,7 @@ category: "Coffee Living"
 author: "SofiaBianchi."
 image: "/images/the-coffee-bar-decor-idea-everyones-saving-right-now.webp"
 pubDate: "2026-08-12T13:35:07Z"
+recipe: "{\"title\": \"Simple Pour-Over Station Setup\", \"ingredients\": [\"whole coffee beans (filtered water)\"], \"instructions\": [\"Choose a dedicated spot for your coffee bar, ideally near a power outlet and water source.\", \"Place a sturdy tray or mat to protect surfaces from heat and spills.\", \"Arrange your gooseneck kettle, dripper, and scale within easy reach.\", \"Store beans in an airtight container away from light and heat.\", \"Add a small towel or cloth for wiping drips.\", \"Use a small basket or jar for filters and stir sticks.\", \"Set up a mug or carafe on the scale for brewing.\", \"Keep a notebook and pen for recording brew ratios and notes.\"], \"equipment\": [\"gooseneck kettle\", \"pour-over dripper\", \"paper filters\", \"digital scale\", \"coffee grinder\", \"mug or carafe\"], \"servings\": \"1\", \"prep_time\": \"15\", \"cook_time\": null, \"total_time\": \"15\", \"calories\": null}"
 ---
 
 <p>I love the sound of a kettle heating up in the morning. The soft hiss of steam, the gentle clink of a ceramic mug on a wooden tray. That's the moment I know the day has begun. Lately, I've noticed a shift in how people think about their coffee corners. It's not about cramming every gadget onto a counter. It's about a single, intentional setup: the pour-over station.</p>
